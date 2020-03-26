@@ -41,7 +41,7 @@ toc_sticky : true
 
 <!-- ![Image of datapoints on graph](/assets/img/posts/gplab/trendline_p1.png) -->
 <div style="position:relative;padding-top:70.00%;">
-<iframe style="position:absolute;top:0;left:0;width:98%;height:100%;" src="https://root.cern/js/latest/?nobrowser&file=https://isaac-kwon.github.io/assets/img/posts/gplab/trendline_p1.root&item=c1;1">
+<iframe style="position:absolute;top:0;left:0;width:98%;height:100%;" src="/assets/jsroot/?nobrowser&file=../img/posts/gplab/trendline_p1.root&item=c1;1">
 </iframe>
 </div>
 **Figure 1) 어떤 1차식을 따르는 것 같아 보이는 그래프 위의 데이터포인트들**
@@ -52,9 +52,10 @@ toc_sticky : true
 
 <!-- ![Image of datapoints on graph with trendline](/assets/img/posts/gplab/trendline_p1_with_line.png) -->
 <div style="position:relative;padding-top:70.00%;">
-<iframe style="position:absolute;top:0;left:0;width:98%;height:100%;" src="https://root.cern/js/latest/?nobrowser&file=https://isaac-kwon.github.io/assets/img/posts/gplab/trendline_p1.root&item=c2;1">
+<iframe style="position:absolute;top:0;left:0;width:98%;height:100%;" src="/assets/jsroot/?nobrowser&file=../img/posts/gplab/trendline_p1.root&item=c2;1&item=c2;1">
 </iframe>
 </div>
+
 **Figure 2) Figure 1 에서 1차식 피팅을 포함한 그래프**
 
 간단히 말해서, 까만 데이터포인트와 거리를 최소화하는 <span style="color:red">빨간 직선</span>을 찾는 겁니다.
@@ -109,7 +110,7 @@ $$\sum_{i} \left(y_i - f\left(x_i\right) \right)^2$$ ... (Eq. 4)
 그림으로 다시 설명하자면, 
 <!-- ![Image of datapoints on graph with trendline, plotted with residual](/assets/img/posts/gplab/trendline_p1_with_line_Residual.png) -->
 <div style="position:relative;padding-top:70.00%;">
-<iframe style="position:absolute;top:0;left:0;width:98%;height:100%;" src="https://root.cern/js/latest/?nobrowser&file=https://isaac-kwon.github.io/assets/img/posts/gplab/trendline_p1.root&item=c3;1">
+<iframe style="position:absolute;top:0;left:0;width:98%;height:100%;" src="/assets/jsroot/?nobrowser&file=../img/posts/gplab/trendline_p1.root&item=c3;1">
 </iframe>
 </div>
 **Figure 3) Figure 2 에서 $$f(x_i)-y_i$$ 를 포함한 그래프**
@@ -122,7 +123,7 @@ Figure 3 에서 **각 파란 선의 길이의 제곱의 합이 최소가 되는*
 
 
 <div style="position:relative;padding-top:110.00%;">
-<iframe style="position:absolute;top:0;left:0;width:98%;height:100%;" src="https://root.cern/js/latest/?nobrowser&file=https://isaac-kwon.github.io/assets/img/posts/gplab/trendline_p1_compare.root&item=c4;1">
+<iframe style="position:absolute;top:0;left:0;width:98%;height:100%;" src="/assets/jsroot/?nobrowser&file=../img/posts/gplab/trendline_p1_compare.root&item=c4;1">
 </iframe>
 </div>
 
@@ -138,7 +139,7 @@ Figure 4 에서 아래에 새로 그려진 그래프는 데이터값과 피팅 �
 또한, 다음 Figure 5 와 같이 오차를 계급값으로 하는 히스토그램을 그려볼 수 있습니다.
 
 <div style="position:relative;padding-top:70.00%;">
-<iframe style="position:absolute;top:0;left:0;width:98%;height:100%;" src="https://root.cern/js/latest/?nobrowser&file=https://isaac-kwon.github.io/assets/img/posts/gplab/trendline_p1.root&item=c5;1">
+<iframe style="position:absolute;top:0;left:0;width:98%;height:100%;" src="/assets/jsroot/?nobrowser&file=../img/posts/gplab/trendline_p1.root&item=c5;1">
 </iframe>
 </div>
 
