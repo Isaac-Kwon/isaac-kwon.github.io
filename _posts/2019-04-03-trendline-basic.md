@@ -153,4 +153,4 @@ Figure 4 에서 아래에 새로 그려진 그래프는 데이터값과 피팅 �
 
 ## 참고자료
 
-1. Steven J. Miller, The Method of Least Squares, [https://web.williams.edu/Mathematics/sjmiller/public_html/BrownClasses/54/handouts/MethodLeastSquares.pdf](https://web.williams.edu/Mathematics/sjmiller/public_html/BrownClasses/54/handouts/MethodLeastSquares.pdf)
+1. Steven J. Miller, The Method of Least Squares, [PDF Link](https://web.williams.edu/Mathematics/sjmiller/public_html/BrownClasses/54/handouts/MethodLeastSquares.pdf)
