@@ -88,7 +88,7 @@ $$ F = k \Delta L$$
 
 ## 실험 기초설계의 변화와 그에 대한 요약
 다음 그림과 같이 기초설계가 구체화하면서, 그에 따라 발생하는 문제를 보정하였습니다.
-![실험 기초설계의 변화의 요약 그림](/assets/img/posts/gplab/designingexp/SpringExpS1.pdf)
+![실험 기초설계의 변화의 요약 그림](/assets/img/posts/gplab/designingexp/SpringExpS1.png)
 
 # 실험 과정에서의 문제 인식과 해결
 
@@ -102,7 +102,7 @@ $$ F = k \Delta L$$
 
 일단 이 방법을 대충 구상해보면, 그리고 실사에서 어떻게 되는지를 보면 다음 그림과 같습니다.
 
-![줄자 등으로 직접 고무줄의 길이를 측정할 때의 개괄과 사진](/assets/img/posts/gplab/designingexp/SpringExpS1_Measurement.pdf)
+![줄자 등으로 직접 고무줄의 길이를 측정할 때의 개괄과 사진](/assets/img/posts/gplab/designingexp/SpringExpS1_Measurement.png)
 
 고무줄의 길이를 매번 측정한다는 것은, 고무줄 한쪽 끝을 기준으로 반대쪽 끝의 길이를 측정해줘야 한다는 뜻입니다. 이때 매번 자를 들고 측정하게 되면,
 
@@ -125,7 +125,7 @@ $$ F = k \Delta L$$
 
 ### 컵의 위치를 읽는 방법에서 오는 문제.
 
-![측정자를 고정했을 때의 개략도와 문제점](/assets/img/posts/gplab/designingexp/SpringExpS1_FixedRuler.pdf)
+![측정자를 고정했을 때의 개략도와 문제점](/assets/img/posts/gplab/designingexp/SpringExpS1_FixedRuler.png)
 
 측정자를 벽에 붙여버리면, 그 눈금을 어떻게 읽느냐의 새로운 문제가 생깁니다. (위 그림으로 설명.)
 
@@ -140,7 +140,7 @@ $$ F = k \Delta L$$
 
 물리적으로 해석해볼 때, 회전축을 중심으로 *회전 하는 것*이기 때문에, 돌림힘에 대해서 생각해보아야 할 것입니다. 자유물체도표를 그리고 작용하는 힘을 해석해보면 다음 그림의 자유물체도표와 같습니다.
 
-![컵이 기울어지는 이유에 대한 물리적 해석](/assets/img/posts/gplab/designingexp/SpringExpS1_TiltingCup.pdf)
+![컵이 기울어지는 이유에 대한 물리적 해석](/assets/img/posts/gplab/designingexp/SpringExpS1_TiltingCup.png)
 
 컵에 작용하는 힘은 문고리까지 버티고 있는, 컵을 매달아두기 위한 장력과 컵과 동전의 무게에 의해 무게중심 (대부분의 경우에는 질량중심의 위치와 일치) 으로부터 중력의 방향으로 중력이 작용하는 두가지 힘으로 요약할 수 있습니다.
 
@@ -150,7 +150,7 @@ $$ F = k \Delta L$$
 
 네. 간단하게 고치는 방법은 동전의 무게가 컵에 대해 큰 영향을 미치지 않게 하면 됩니다. 대략의 설명은 다음 그림과 같습니다.
 
-![컵이 기울어지는 것을 고치는 방법의 개략도](/assets/img/posts/gplab/designingexp/SpringExpS1_TiltingCup_Fixed.pdf)
+![컵이 기울어지는 것을 고치는 방법의 개략도](/assets/img/posts/gplab/designingexp/SpringExpS1_TiltingCup_Fixed.png)
 
 (여기서는 질량중심과 무게중심의 위치는 동일하므로, 질량중심으로 말하기로 합니다.)  
 질량중심의 수학적 정의는 각 물체의 위치의 질량에 대한 가중평균이므로, 다음과 같이 쓸 수 있습니다.
@@ -206,7 +206,7 @@ $$\frac{\sum_i{m_i \vec{r_i}}}{\sum_i{m_i}}$$
 
 그래서, 일단은 고무줄 끝 클립에 나무젓가락을 (끝을 연필깎이로 깎아서) 끼워봤습니다. 다음 그림과 같습니다.
 
-![나무젓가락으로 측정자를 지침하도록 한 실험 구성의 개략도와 사진](/assets/img/posts/gplab/designingexp/SpringExpS1_MeasurementP1.pdf)
+![나무젓가락으로 측정자를 지침하도록 한 실험 구성의 개략도와 사진](/assets/img/posts/gplab/designingexp/SpringExpS1_MeasurementP1.png)
 
 ~~당연하게도~~ 이 측정방법에는 문제가 있습니다. 종이컵이 통째로 돌아갔을 때를 고려하지 않았고, 클립에 고정되어있기 때문에 종이컵이 기울어지는 문제를 그대로 안고있기도 하죠. 그래서 이 계획은 기각하기로 합니다. 그러나, *나무 젓가락* 을 활용하여 *고무줄 끝을 측정한다* 는 기본은 그대로 하여 다시 생각해보기로 합니다.
 
@@ -220,7 +220,7 @@ $$\frac{\sum_i{m_i \vec{r_i}}}{\sum_i{m_i}}$$
 
 나무젓가락을 휴대전화에 고정하고, 고무줄 끝에서 (휴대전화의 기울기가 0도임을 확인하면서) 측정자의 눈금을 지침합니다. (다음 그림과 같습니다.)
 
-![나무젓가락으로 측정자를 지침하도록 한 실험 구성의 개략도와 사진](/assets/img/posts/gplab/designingexp/SpringExpS1_MeasurementP2.pdf)
+![나무젓가락으로 측정자를 지침하도록 한 실험 구성의 개략도와 사진](/assets/img/posts/gplab/designingexp/SpringExpS1_MeasurementP2.png)
 
 물론, 이 방법에도 문제가 있습니다. ~~끝이 없네, 끝이 없어.~~
 
