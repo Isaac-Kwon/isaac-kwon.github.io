@@ -164,7 +164,7 @@ $$\frac{\sum_i{m_i \vec{r_i}}}{\sum_i{m_i}}$$
 
 그래서 이게 끝일까요?
 
-> 아뇨 [~~뚱인데요~~](https://www.youtube.com/watch?v=OffcLsMhQho)
+> 아뇨 [~~뚱인데요~~](https://www.youtube.com/watch?v=OffcLsMhQho){:target="_blank"}
 
 ### 컵이 기울어지지 않게 하는 해결법에서 오는 문제
 
@@ -174,7 +174,7 @@ $$\frac{\sum_i{m_i \vec{r_i}}}{\sum_i{m_i}}$$
 
 그렇습니다. 컵의 위치를 측정하는건 측정 오차의 문제에선, 그리고 이런 방법에서는 글렀습니다.
 
-> [~~우린 이제 글렀어~~](https://youtu.be/xLJXPq08WAI?t=58)  
+> [~~우린 이제 글렀어~~](https://youtu.be/xLJXPq08WAI?t=58){:target="_blank"}  
 > 컵은 기울어질 수 밖에 없는데 그걸 고치려고 하니까 문제가 생기는 것 아닌가요?
 
 # 측정 방법의 재설계

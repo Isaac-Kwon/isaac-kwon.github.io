@@ -12,7 +12,7 @@ You can see detail in [webpage](https://sites.google.com/a/hipex.phys.pusan.ac.k
 
 ## ALICE Collaboration
 
-[ALICE Collaboration](https://alice-collaboration.web.cern.ch)[^1] is team at LHC[^2] in [CERN](https://home.cern)[^3]
+[ALICE Collaboration](https://alice-collaboration.web.cern.ch){:target="_blank"}[^1] is team at LHC[^2] in [CERN](https://home.cern)[^3]
 
  [^1]: A Large Ion Collider Experiment  
  [^2]: Large Hadron Collider  
@@ -20,11 +20,11 @@ You can see detail in [webpage](https://sites.google.com/a/hipex.phys.pusan.ac.k
 
 To know more detail, you can follow other webpages.
 
-CERN : [LINK](https://home.cern)  
-ALICE : [LINK](http://alice.web.cern.ch)  
-ALICE Collaboration : [LINK](https://alice-collaboration.web.cern.ch)  
+CERN : [LINK](https://home.cern){:target="_blank"}  
+ALICE : [LINK](http://alice.web.cern.ch){:target="_blank"}  
+ALICE Collaboration : [LINK](https://alice-collaboration.web.cern.ch){:target="_blank"}  
 
 ## Personal Projects
 
-* [CIMS](https://github.com/PNU-HIPEx/CIMS-Pigle)
-* [RooParticle](https://github.com/Isaac-Kwon/RooParticle)
+* [CIMS](https://github.com/PNU-HIPEx/CIMS-Pigle){:target="_blank"}
+* [RooParticle](https://github.com/Isaac-Kwon/RooParticle){:target="_blank"}

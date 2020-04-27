@@ -5,8 +5,8 @@ permalink: /about_ko-tmi/
 ---
 
 ## 개인적으로 하는 덕질
-浅倉樹々, つばきファクトリー. (Asakura Kiki, Tsubaki Factory) [<sub>Blog</sub>](https://ameblo.jp/tsubaki-factory/theme-10090188560.html)  
-Hello Project. [<sub>Information</sub>](http://www.helloproject.com)
+浅倉樹々, つばきファクトリー. (Asakura Kiki, Tsubaki Factory) [<sub>Blog</sub>](https://ameblo.jp/tsubaki-factory/theme-10090188560.html){:target="_blank"}   
+Hello Project. [<sub>Information</sub>](http://www.helloproject.com){:target="_blank"}
 
 ## 개인 장비
 
