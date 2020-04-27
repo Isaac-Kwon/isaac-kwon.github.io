@@ -7,6 +7,8 @@ permalink: /about_ko/
 English (영어): [Link](/about)  
 CV (영어) : [Download](/assets/files/MKWON_CV.pdf)
 
+**TMI** 는 [이쪽](/about_ko-tmi)
+
 # Education
 
 - 2015년 3월 - 2019년 2월 : __이학사__, 물리학과, 국립 부산대학교, 부산광역시, 대한민국.  
