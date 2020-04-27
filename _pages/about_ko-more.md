@@ -4,7 +4,11 @@ title: Who Am I (TMI)
 permalink: /about_ko-tmi/
 ---
 
-# 개인 장비
+## 개인적으로 하는 덕질
+浅倉樹々, つばきファクトリー. (Asakura Kiki, Tsubaki Factory) [<sub>Blog</sub>](https://ameblo.jp/tsubaki-factory/theme-10090188560.html)  
+Hello Project. [<sub>Information</sub>](http://www.helloproject.com)
+
+## 개인 장비
 
 * PC
   * MacBook Pro 15' 2018, with CTO
@@ -27,12 +31,15 @@ permalink: /about_ko-tmi/
     화상강의용 / 노트용 태블릿으로 샀는데 미팅용으로밖에 안씀. 아이패드를 새로 사야하나 봄.
   * Lenovo Ultranav Keyboard (유선)  
     크기가 작아서 좋긴 한데 조만간 바꿀거임. 빨콩이의 추억에 산 것. (2017년에 삼)
+  * 한성 GK868B  
+    크기 작은 무접점키보드 (무선 지원)
   * Apple MagicMouse (구형)  
     역시 애플에는 애플기기를 써야 함. 건전지 교체모델인게 괜찮음.
   * Bose QC 25  
     Bose 노이즈캔슬링 해드폰 중 이제는 없는 배터리 교체 모델. ~~아무튼 배터리는 교체되어야 함. (유선이지만...)~~
 
-# 쓰는 (상용) 소프트웨어
+## 쓰는 주요 소프트웨어
+
 * Adobe  
   (매달 4만원씩 뜯기는 중)
   * Acrobat DC Pro
@@ -69,8 +76,11 @@ permalink: /about_ko-tmi/
   보고서쓸 때... 이쁜 문서 만들 때... 아니면 그냥.
 * Parallels Desktop  
   차라리 부트캠프 쓰는게 속편한데, 켜져있는 프로그램을 다 꺼야하는 것이 아까울 떄.
+* Visual Studio Code
 
-# 쓰는 프로그래밍 언어
+
+## 쓰는 프로그래밍 언어
+
 * C++
   * 주로 ROOT 라이브러리, Interpreter 씀
 * Python
@@ -81,3 +91,13 @@ permalink: /about_ko-tmi/
   * 재빠른 그래프 그리기의 진수
 * Fortran
   * 거의 안쓰지만 가끔 읽는 순간이 옴
+
+## 최근까지 했던 게임들
+
+* Factorio
+* Cities: Skyline
+* Transport Fever
+* Kerbal Space Program
+* Two Point Hospital
+* TIS-100
+* Minecraft
