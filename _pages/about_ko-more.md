@@ -5,7 +5,8 @@ permalink: /about_ko-tmi/
 ---
 
 ## 개인적으로 하는 덕질
-浅倉樹々, つばきファクトリー. (Asakura Kiki, Tsubaki Factory) [<sub>Blog</sub>](https://ameblo.jp/tsubaki-factory/theme-10090188560.html){:target="_blank"}   
+
+浅倉樹々, つばきファクトリー. (Asakura Kiki, Tsubaki Factory) [<sub>Blog</sub>](https://ameblo.jp/tsubaki-factory/theme-10090188560.html){:target="_blank"}  
 Hello Project. [<sub>Information</sub>](http://www.helloproject.com){:target="_blank"}
 
 ## 개인 장비
@@ -14,11 +15,12 @@ Hello Project. [<sub>Information</sub>](http://www.helloproject.com){:target="_b
   * MacBook Pro 15' 2018, with CTO
     * CPU : 2.6GHz 6Core i7
     * RAM : 32GB
-    * GPU (외장): Radeon Pro Vega 20 VRAM 4GB
+    * GPU (외장): Radeon Pro Vega 20 VRAM 4GB  
+    ~~쭉 보면 알겠지만, 컴퓨터로 밥벌어먹고 삽니다.~~
   * MacBook Air 11' 2012, 최하 옵션
 * 모바일기기 (4세대 이동통신 가능류)
   * Galaxy S10 (SM-973N)  
-    사실상 카메라 겸용 이메일기기
+    사실상 카메라 겸용 이메일기기. 화면상 지문인식때문에 삼.
   * iPhone 6 Plus  (A1524, NGAK2KH/A)  
     64GB 에 허덕이는 중, 사실상 삐삐
   * Galaxy Watch 2 (SM-R815N)  
@@ -29,14 +31,14 @@ Hello Project. [<sub>Information</sub>](http://www.helloproject.com){:target="_b
 * 기타 기기
   * XP-Pen Artist 12 Pro  
     화상강의용 / 노트용 태블릿으로 샀는데 미팅용으로밖에 안씀. 아이패드를 새로 사야하나 봄.
-  * Lenovo Ultranav Keyboard (유선)  
-    크기가 작아서 좋긴 한데 조만간 바꿀거임. 빨콩이의 추억에 산 것. (2017년에 삼)
   * 한성 GK868B  
     크기 작은 무접점키보드 (무선 지원)
   * Apple MagicMouse (구형)  
     역시 애플에는 애플기기를 써야 함. 건전지 교체모델인게 괜찮음.
   * Bose QC 25  
     Bose 노이즈캔슬링 해드폰 중 이제는 없는 배터리 교체 모델. ~~아무튼 배터리는 교체되어야 함. (유선이지만...)~~
+  * Lenovo Ultranav Keyboard (유선)  
+    ~~크기가 작아서 좋긴 한데 조만간 바꿀거임. 빨콩이의 추억에 산 것. (2017년에 삼)~~ > 이제 잘 안씀.
 
 ## 쓰는 주요 소프트웨어
 
@@ -48,7 +50,7 @@ Hello Project. [<sub>Information</sub>](http://www.helloproject.com){:target="_b
   * Adobe Audition
   * Adobe Premiere Pro
 * Autodesk Fusion  
-  실험 세팅 설계하고 모델링해서 렌더링...
+  실험 세팅 설계하고 모델링해서 렌더링, 구조강성분석...
 * Mathematica 12  
   원래는 10버전 썼는데, MacOS 카타리나 올리면서 32비트 지원이 끊기는 바람에... 12를 새로 삼.
 * MATLAB 2017a + Simulink  
@@ -68,16 +70,17 @@ Hello Project. [<sub>Information</sub>](http://www.helloproject.com){:target="_b
   * Database Toolbox
   * Deep Learning Toolbox
   * Global Optimization Toolbox
-  * Mapping Toolbox	
+  * Mapping Toolbox
   * Parallel Computing Toolbox
-  * Partial Differential Equation Toolbox	
+  * Partial Differential Equation Toolbox
   * Wavelet Toolbox
 * TeXStudio  
   보고서쓸 때... 이쁜 문서 만들 때... 아니면 그냥.
 * Parallels Desktop  
-  차라리 부트캠프 쓰는게 속편한데, 켜져있는 프로그램을 다 꺼야하는 것이 아까울 떄.
-* Visual Studio Code
-
+  차라리 부트캠프 쓰는게 속편한데, 켜져있는 프로그램을 다 꺼야하는 것이 아까울 때.
+* Visual Studio Code  
+* UnrealEngine  
+  연습중... 목표는 시뮬레이션을 영상화하는 것...
 
 ## 쓰는 프로그래밍 언어
 
@@ -94,6 +97,7 @@ Hello Project. [<sub>Information</sub>](http://www.helloproject.com){:target="_b
 
 ## 최근까지 했던 게임들
 
+* Animal Crossing : New Horizon
 * Factorio
 * Cities: Skyline
 * Transport Fever
@@ -101,3 +105,8 @@ Hello Project. [<sub>Information</sub>](http://www.helloproject.com){:target="_b
 * Two Point Hospital
 * TIS-100
 * Minecraft
+* OpenTTD
+* Sid Meier's Civilization V
+* Euro Truck Simulator 2
+* Portal 1,2
+* Animal Crossing: Wild World
