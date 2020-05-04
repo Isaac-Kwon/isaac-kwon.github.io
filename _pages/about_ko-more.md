@@ -109,4 +109,4 @@ Hello Project. [<sub>Information</sub>](http://www.helloproject.com){:target="_b
 * Sid Meier's Civilization V
 * Euro Truck Simulator 2
 * Portal 1,2
-* Animal Crossing: Wild World
+* Animal Crossing : Wild World
