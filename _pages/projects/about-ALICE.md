@@ -19,8 +19,9 @@ permalink: /projects/about-ALICE
 3. Data Analysis
 
 # References
-To know more detail, you can follow following hyper-links
+To know more detail, you can follow other webpages.
 
 CERN : [LINK](https://home.cern)  
+ALICE : [LINK](http://alice.web.cern.ch)  
 ALICE Collaboration : [LINK](https://alice-collaboration.web.cern.ch)  
-ALICE Public : [LINK](https://alice-public.web.cern.ch)
+

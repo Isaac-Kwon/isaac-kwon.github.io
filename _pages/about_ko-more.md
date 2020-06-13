@@ -6,7 +6,8 @@ permalink: /about_ko-tmi/
 
 ## 개인적으로 하는 덕질
 
-浅倉樹々, つばきファクトリー. (Asakura Kiki, Tsubaki Factory) [<sub>Blog</sub>](https://ameblo.jp/tsubaki-factory/theme-10090188560.html){:target="_blank"}  
+浅倉樹々, つばきファクトリー. (Asakura Kiki, Tsubaki Factory)  
+[Blog](https://ameblo.jp/tsubaki-factory/theme-10090188560.html){:target="_blank"}, [Instagram](https://www.instagram.com/kiki_asakura.official/){:target="_blank"}  
 Hello Project. [<sub>Information</sub>](http://www.helloproject.com){:target="_blank"}
 
 ## 개인 장비
@@ -21,16 +22,21 @@ Hello Project. [<sub>Information</sub>](http://www.helloproject.com){:target="_b
 * 모바일기기 (4세대 이동통신 가능류)
   * Galaxy S10 (SM-973N)  
     사실상 카메라 겸용 이메일기기. 화면상 지문인식때문에 삼.
-  * iPhone 6 Plus  (A1524, NGAK2KH/A)  
-    64GB 에 허덕이는 중, 사실상 삐삐
+  * iPhone 7 (MN922KH/A)  
+    iPhone 6 Plus 가 iOS 13 지원을 안하는 바람에, Apple Reminder 가 iCloud 동기화가 안되어서 급하게 사서 쓰는 중.
+  * iPad Pro 11" (2020) 256GB
+    * with Apple Pencil 2
+    * Smart Case Folio
   * Galaxy Watch 2 (SM-R815N)  
     사실상 삐삐 + 심박수 체커
+  * iPhone 6 Plus  (A1524, NGAK2KH/A)  
+    지금은 그냥 삐삐. ~~1인당 회선개설 수에 막혀서 아직 개통 못함~~
 * 모바일기기 (4세대 이동통신 불가능류)
   * Apple Watch Series 1  
     예전엔 끼고 다녔는데, 한 손목에 두개 끼니까 팔이 무거워서 이제 안낌.
 * 기타 기기
   * XP-Pen Artist 12 Pro  
-    화상강의용 / 노트용 태블릿으로 샀는데 미팅용으로밖에 안씀. 아이패드를 새로 사야하나 봄.
+    화상강의용 / 노트용 태블릿으로 샀는데 미팅용으로밖에 안씀. ~~아이패드를 새로 사야하나 봄.~~ 결국 아이패드 삼.
   * 한성 GK868B  
     크기 작은 무접점키보드 (무선 지원)
   * Apple MagicMouse (구형)  
@@ -52,7 +58,7 @@ Hello Project. [<sub>Information</sub>](http://www.helloproject.com){:target="_b
 * Autodesk Fusion  
   실험 세팅 설계하고 모델링해서 렌더링, 구조강성분석...
 * Mathematica 12  
-  원래는 10버전 썼는데, MacOS 카타리나 올리면서 32비트 지원이 끊기는 바람에... 12를 새로 삼.
+  원래는 v.10 썼는데, MacOS 카타리나 올리면서 32비트 지원이 끊기는 바람에... 12를 새로 삼.
 * MATLAB 2017a + Simulink  
   툴박스 많이 샀는데, 정작 쓰는건 몇개 없는 듯. Symbolic Math, Image Processing, Curve Fitting 정도?
   * MATLAB and Simulink Student Suite
@@ -110,3 +116,14 @@ Hello Project. [<sub>Information</sub>](http://www.helloproject.com){:target="_b
 * Euro Truck Simulator 2
 * Portal 1,2
 * Animal Crossing : Wild World
+
+## 업무 배경음악
+
+* Railway Announcement
+  * SBB Ansagen  
+    스위스 철도청
+  * Annonce SNCF  
+    프랑스 철도청
+  * 地下鉄・電車・新幹線車内放送  
+    일본 지하철/전철/신칸센
+* Hello! Project 음악
