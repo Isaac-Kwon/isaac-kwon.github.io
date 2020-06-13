@@ -1,0 +1,96 @@
+\documentclass[]{article}
+\usepackage{kotex}
+\usepackage{amsmath}
+
+%opening
+\title{Systematic Unvertainty Note}
+\author{}
+
+\begin{document}
+
+\maketitle
+
+중력가속도 실험에 대한 Systematic Uncertainty Estimation
+
+Based on Monte-Carlo Simulation
+
+\section{Equation of Datapoints}
+
+\paragraph{Basic Equation}
+\begin{equation}
+h = \frac{1}{2} g t^2
+\end{equation}
+\begin{equation}
+t = \sqrt{2 \frac{g}{h}}
+\end{equation}
+
+\paragraph{Basic Equation with uncertainty}
+
+\begin{equation}
+h+\delta h = \frac{1}{2} g \left(t+\delta t\right)^2
+\end{equation}
+
+\begin{equation}
+t = \sqrt{2 \frac{g}{h+\delta h}} + \delta t
+\end{equation}
+
+with following random distribution
+
+\begin{table}[!h]
+	\begin{tabular}{c|cc}
+		Random Variable & Distribution & Reason\\\hline
+		$\delta h$ & Gaussian Disribution & Measured by human-eye\\
+		$\delta t$ & Uniform Disribution & Measured by mechanical clock
+	\end{tabular}	
+\end{table}
+
+With overlapped uncertainty (depending on measuring methods), the $\delta h$ has different value for each datapoints.
+
+
+\section{Case Overlapped Length Dependencies}
+If measuring length for each data-points has dependencies with each previous data-point. Uncertainty for each data-points is needed to declared especially.
+
+\subsection{Error Propagation}
+
+\paragraph{Basic Equation of uncertainty}
+\begin{equation}
+\delta f = \sqrt{\sum_i\left(\frac{\partial f}{\partial x_i} \delta x_i \right)^2}
+\end{equation}
+
+\paragraph{Overlapped Uncertainty, Propagated for Summation}
+
+\begin{equation}
+\delta (f+g) = \sqrt{(\delta g)^2 + (\delta f)^2  }
+\end{equation}
+For independent 2 formula $f$ and $g$.
+
+Overlapping uncertainties. With measuring length period $l$, number $i$, single measuring uncertainty $\delta l_i$, Initial offset $b$ and its uncertainty $\delta b$
+
+First term
+\begin{align}
+h_0 &= b \\
+h_1 &= b + l + \delta l_1 \\
+h_2 &= b + 2l +  \delta l_1 +\delta l_2
+\end{align} 
+
+with regularity, following correlation can be assumed.
+
+\begin{equation}
+h_n = b + n \cdot l + \sum_i{\delta l_i}
+\end{equation}
+
+Uncertainty is 
+\begin{equation}
+\delta h_i = \sqrt{\sum_i{\left(\delta l\right)^2}}
+\end{equation}
+$\delta l$ is constant for each $n$, 
+
+\begin{equation}
+\delta h_n = \sqrt{n} \delta l
+\end{equation}
+
+
+
+	
+
+\end{document}

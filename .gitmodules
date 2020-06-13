@@ -1,0 +1,6 @@
+[submodule "assets/jsroot"]
+	path = assets/jsroot
+	url = https://github.com/root-project/jsroot.git
+[submodule "assets/regression-js"]
+	path = assets/regression-js
+	url = https://github.com/Tom-Alexander/regression-js.git

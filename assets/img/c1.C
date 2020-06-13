@@ -1,0 +1,128 @@
+void c1()
+{
+//=========Macro generated from canvas: c1/c1
+//=========  (Wed Apr 10 00:21:02 2019) by ROOT version 6.12/06
+   TCanvas *c1 = new TCanvas("c1", "c1",10,45,1002,698);
+   c1->ToggleEventStatus();
+   c1->ToggleToolTips();
+   c1->Range(-2.5,-45.80626,22.5,412.2563);
+   c1->SetFillColor(0);
+   c1->SetBorderMode(0);
+   c1->SetBorderSize(2);
+   c1->SetFrameBorderMode(0);
+   c1->SetFrameBorderMode(0);
+   
+   TH1F *h1__2 = new TH1F("h1__2","h1",250,0,20);
+   h1__2->SetBinContent(91,1);
+   h1__2->SetBinContent(95,3);
+   h1__2->SetBinContent(96,2);
+   h1__2->SetBinContent(97,7);
+   h1__2->SetBinContent(98,3);
+   h1__2->SetBinContent(99,12);
+   h1__2->SetBinContent(100,12);
+   h1__2->SetBinContent(101,19);
+   h1__2->SetBinContent(102,19);
+   h1__2->SetBinContent(103,27);
+   h1__2->SetBinContent(104,41);
+   h1__2->SetBinContent(105,40);
+   h1__2->SetBinContent(106,67);
+   h1__2->SetBinContent(107,77);
+   h1__2->SetBinContent(108,99);
+   h1__2->SetBinContent(109,122);
+   h1__2->SetBinContent(110,132);
+   h1__2->SetBinContent(111,150);
+   h1__2->SetBinContent(112,177);
+   h1__2->SetBinContent(113,190);
+   h1__2->SetBinContent(114,235);
+   h1__2->SetBinContent(115,237);
+   h1__2->SetBinContent(116,290);
+   h1__2->SetBinContent(117,277);
+   h1__2->SetBinContent(118,299);
+   h1__2->SetBinContent(119,328);
+   h1__2->SetBinContent(120,342);
+   h1__2->SetBinContent(121,327);
+   h1__2->SetBinContent(122,349);
+   h1__2->SetBinContent(123,312);
+   h1__2->SetBinContent(124,348);
+   h1__2->SetBinContent(125,327);
+   h1__2->SetBinContent(126,289);
+   h1__2->SetBinContent(127,290);
+   h1__2->SetBinContent(128,283);
+   h1__2->SetBinContent(129,277);
+   h1__2->SetBinContent(130,222);
+   h1__2->SetBinContent(131,242);
+   h1__2->SetBinContent(132,221);
+   h1__2->SetBinContent(133,193);
+   h1__2->SetBinContent(134,193);
+   h1__2->SetBinContent(135,143);
+   h1__2->SetBinContent(136,125);
+   h1__2->SetBinContent(137,116);
+   h1__2->SetBinContent(138,111);
+   h1__2->SetBinContent(139,96);
+   h1__2->SetBinContent(140,70);
+   h1__2->SetBinContent(141,59);
+   h1__2->SetBinContent(142,44);
+   h1__2->SetBinContent(143,40);
+   h1__2->SetBinContent(144,29);
+   h1__2->SetBinContent(145,25);
+   h1__2->SetBinContent(146,19);
+   h1__2->SetBinContent(147,11);
+   h1__2->SetBinContent(148,13);
+   h1__2->SetBinContent(149,6);
+   h1__2->SetBinContent(150,4);
+   h1__2->SetBinContent(151,3);
+   h1__2->SetBinContent(152,1);
+   h1__2->SetBinContent(153,2);
+   h1__2->SetBinContent(154,1);
+   h1__2->SetBinContent(158,1);
+   h1__2->SetEntries(8000);
+   
+   TPaveStats *ptstats = new TPaveStats(0.78,0.775,0.98,0.935,"brNDC");
+   ptstats->SetName("stats");
+   ptstats->SetBorderSize(1);
+   ptstats->SetFillColor(0);
+   ptstats->SetTextAlign(12);
+   ptstats->SetTextFont(42);
+   TText *ptstats_LaTex = ptstats->AddText("h1");
+   ptstats_LaTex->SetTextSize(0.0368);
+   ptstats_LaTex = ptstats->AddText("Entries = 8000   ");
+   ptstats_LaTex = ptstats->AddText("Mean  =  9.811");
+   ptstats_LaTex = ptstats->AddText("Std Dev   = 0.7418");
+   ptstats->SetOptStat(1111);
+   ptstats->SetOptFit(0);
+   ptstats->Draw();
+   h1__2->GetListOfFunctions()->Add(ptstats);
+   ptstats->SetParent(h1__2);
+
+   Int_t ci;      // for color index setting
+   TColor *color; // for color definition with alpha
+   ci = TColor::GetColor("#000099");
+   h1__2->SetLineColor(ci);
+   h1__2->GetXaxis()->SetRange(1,250);
+   h1__2->GetXaxis()->SetLabelFont(42);
+   h1__2->GetXaxis()->SetLabelSize(0.035);
+   h1__2->GetXaxis()->SetTitleSize(0.035);
+   h1__2->GetXaxis()->SetTitleFont(42);
+   h1__2->GetYaxis()->SetLabelFont(42);
+   h1__2->GetYaxis()->SetLabelSize(0.035);
+   h1__2->GetYaxis()->SetTitleSize(0.035);
+   h1__2->GetYaxis()->SetTitleOffset(0);
+   h1__2->GetYaxis()->SetTitleFont(42);
+   h1__2->GetZaxis()->SetLabelFont(42);
+   h1__2->GetZaxis()->SetLabelSize(0.035);
+   h1__2->GetZaxis()->SetTitleSize(0.035);
+   h1__2->GetZaxis()->SetTitleFont(42);
+   h1__2->Draw("");
+   
+   TPaveText *pt = new TPaveText(0.4699427,0.94,0.5300573,0.995,"blNDC");
+   pt->SetName("title");
+   pt->SetBorderSize(0);
+   pt->SetFillColor(0);
+   pt->SetFillStyle(0);
+   pt->SetTextFont(42);
+   TText *pt_LaTex = pt->AddText("h1");
+   pt->Draw();
+   c1->Modified();
+   c1->cd();
+   c1->SetSelected(c1);
+}
