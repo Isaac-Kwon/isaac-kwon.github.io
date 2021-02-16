@@ -28,3 +28,4 @@ ALICE Collaboration : [LINK](https://alice-collaboration.web.cern.ch){:target="_
 
 * [CIMS](https://github.com/PNU-HIPEx/CIMS-Pigle){:target="_blank"}
 * [RooParticle](https://github.com/Isaac-Kwon/RooParticle){:target="_blank"}
+* [qupid](https://github.com/Isaac-Kwon/qupid) [docs](https://isaac-kwon.github.io/qupid){:target="_blank"}
