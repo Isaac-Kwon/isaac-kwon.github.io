@@ -105,10 +105,20 @@ body {
 		}
 	}
 
+  // li {
+  //   font-size: 1.0em;
+  // }
+
   p,
   li,
   dl {
-    font-size: 1em;
+    font-size: 0.8em;
+  }
+
+  .toc__menu{
+    li{
+      font-size: 0.95em;
+    }
   }
 
   /* paragraph indents */
