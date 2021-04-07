@@ -2,8 +2,9 @@
 layout : single
 title  : "실험 설계와 문제 해결"
 date   : 2020-04-27
-categories: post gplab
-
+categories: post
+tags:
+    - gplab
 toc : true
 toc_label : "목차"
 toc_sticky : true

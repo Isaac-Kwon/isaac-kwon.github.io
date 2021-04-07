@@ -2,9 +2,9 @@
 layout : single
 title  : "분포 분석: 곡선 피팅"
 date   : 2019-04-03
-categories:
+categories: post
+tags:
   - gplab
-
 toc : true
 toc_label : "목차"
 toc_sticky : true

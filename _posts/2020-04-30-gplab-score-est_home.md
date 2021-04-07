@@ -2,8 +2,7 @@
 layout: single
 title: "일반물리학실험 레포트 내 항목별 점수 배정 (자택실험용)"
 date :   2019-04-30
-categories:
-  - gplab
+categories: gplab
 
 toc : true
 toc_label : "목차"
