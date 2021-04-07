@@ -15,4 +15,5 @@ taxonomy: gplab
 
 <div class="entries-{{ page.entries_layout }}">
   {% include posts-category.html taxonomy=page.taxonomy type=page.entries_layout %}
+  {% include posts-tag.html taxonomy=page.taxonomy type=page.entries_layout %}
 </div>
