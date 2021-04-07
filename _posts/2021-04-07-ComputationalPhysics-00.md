@@ -2,8 +2,6 @@
 layout : single
 title  : "실전 전산물리학"
 date   : 2021-04-07
-categories: post ComputationalPhysics
-
 toc : true
 toc_label : "목차"
 toc_sticky : true
