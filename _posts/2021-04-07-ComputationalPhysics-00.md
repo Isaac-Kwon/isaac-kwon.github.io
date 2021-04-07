@@ -2,7 +2,7 @@
 layout : single
 title  : "실전 전산물리학"
 date   : 2021-04-07
-categories: post
+categories: posts
 tags:
   - ComputationalPhysics
 toc : true
