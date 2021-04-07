@@ -37,6 +37,8 @@ Hello Project. [<sub>Information</sub>](http://www.helloproject.com){:target="_b
 * 기타 기기
   * XP-Pen Artist 12 Pro  
     화상강의용 / 노트용 태블릿으로 샀는데 미팅용으로밖에 안씀. ~~아이패드를 새로 사야하나 봄.~~ 결국 아이패드 삼.
+  * Keychrone K2
+    macOS 최적회 기계식 텐키리스 키보드
   * 한성 GK868B  
     크기 작은 무접점키보드 (무선 지원)
   * Apple MagicMouse (구형)  
@@ -80,11 +82,10 @@ Hello Project. [<sub>Information</sub>](http://www.helloproject.com){:target="_b
   * Parallel Computing Toolbox
   * Partial Differential Equation Toolbox
   * Wavelet Toolbox
-* TeXStudio  
-  보고서쓸 때... 이쁜 문서 만들 때... 아니면 그냥.
 * Parallels Desktop  
   차라리 부트캠프 쓰는게 속편한데, 켜져있는 프로그램을 다 꺼야하는 것이 아까울 때.
 * Visual Studio Code  
+  모든 개발 / TeX 작업 전부 이걸로 함
 * UnrealEngine  
   연습중... 목표는 시뮬레이션을 영상화하는 것...
 
