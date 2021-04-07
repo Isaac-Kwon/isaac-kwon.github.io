@@ -4,6 +4,8 @@ title: Posts
 permalink: /posts/
 ---
 
+태그로 보기 (View with Tag) : [Link](/tags/)
+
 <ul>
   {% for post in site.posts %}
     <li>
