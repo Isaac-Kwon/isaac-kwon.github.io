@@ -157,4 +157,7 @@ Microsoft Excel 에서 데이터를 활용하여 그래프를 그리고, 최소�
 - 최소제곱법에 활용한 수식 개형이 잘못되었을 시
   - 예1) Exponential 의 함수 개형 $$(y=Ae^{bx}+C)$$을 써야하나, 선형$$(y=ax+b)$$를 썼을 경우
   - 예2) $$y=ax^2+bx+c$$ 의 2차 함수 개형으로 충분하나, $$y=ax^6+bx^5+~\dddot~+g$$ 와 같이 불필요하게 많은 계수를 적용한 경우
-    - 파라메터 4개면 코끼리도 그립니다. <sub>[paper link](https://aapt.scitation.org/doi/abs/10.1119/1.3254017)</sub>
+    - 파라메터 4개면 코끼리도 그립니다. <sub>[paper link](https://aapt.scitation.org/doi/abs/10.1119/1.3254017)</sub>  <sub>[그림 출처](https://www.johndcook.com/blog/2011/06/21/how-to-fit-an-elephant/)</sub>  
+      ![파라메터 4개로 그린 코끼리 그림](https://www.johndcook.com/elephant.png)
+    - ~~아뇨 하나면 되는데~~ <sub>[~~paper link~~](https://aip.scitation.org/doi/10.1063/1.5031956)</sub>  <sub>[~~그림 출처~~](https://aip.scitation.org/doi/10.1063/1.5031956)</sub>  
+      ![파라메터 1개로 그린 코끼리 그림](https://aip.scitation.org/na101/home/literatum/publisher/aip/journals/content/adv/2018/adv.2018.8.issue-9/1.5031956/20180927/images/medium/1.5031956.figures.online.f1.jpg)
