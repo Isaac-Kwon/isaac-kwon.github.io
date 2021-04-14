@@ -124,7 +124,7 @@ Microsoft Excel 에서 데이터를 활용하여 그래프를 그리고, 최소�
 - 선형 - *linear*  
   $$y=ax+b$$
 - n차 다항식 - *n<sup>th</sup> polynomial*  
-  $$y=\sum_{i=0}^{n} a_i x_i $$
+  $$y=\sum_{i=0}^{n} a_i x^i $$
 - 지수 함수 - *exponential function*  
   $$y=a e^{bx}$$
 - 로그 함수 - *logarithm*  
