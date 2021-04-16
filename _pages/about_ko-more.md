@@ -33,18 +33,18 @@ Hello Project. [<sub>Information</sub>](http://www.helloproject.com){:target="_b
     지금은 그냥 삐삐. ~~1인당 회선개설 수에 막혀서 아직 개통 못함~~
 * 모바일기기 (4세대 이동통신 불가능류)
   * Apple Watch Series 1  
-    예전엔 끼고 다녔는데, 한 손목에 두개 끼니까 팔이 무거워서 이제 안낌.
+    예전엔 끼고 다녔는데, 한 손목에 두개 끼니까 팔이 무거워서 이제 안씀.
 * 기타 기기
   * XP-Pen Artist 12 Pro  
     화상강의용 / 노트용 태블릿으로 샀는데 미팅용으로밖에 안씀. ~~아이패드를 새로 사야하나 봄.~~ 결국 아이패드 삼.
   * Keychrone K2
     macOS 최적회 기계식 텐키리스 키보드
-  * 한성 GK868B  
-    크기 작은 무접점키보드 (무선 지원)
-  * Apple MagicMouse (구형)  
-    역시 애플에는 애플기기를 써야 함. 건전지 교체모델인게 괜찮음.
+  * Apple MagicMouse (구형, 신형)  
+    역시 애플에는 애플기기를 써야 함. 건전지 교체모델인게 괜찮음. 신형은 구형이 이제 안팔아서 샀음. 
   * Bose QC 25  
     Bose 노이즈캔슬링 해드폰 중 이제는 없는 배터리 교체 모델. ~~아무튼 배터리는 교체되어야 함. (유선이지만...)~~
+  * 한성 GK868B  
+    ~~크기 작은 무접점키보드 (무선 지원)~~ > 가끔 씀
   * Lenovo Ultranav Keyboard (유선)  
     ~~크기가 작아서 좋긴 한데 조만간 바꿀거임. 빨콩이의 추억에 산 것. (2017년에 삼)~~ > 이제 잘 안씀.
 
@@ -117,6 +117,21 @@ Hello Project. [<sub>Information</sub>](http://www.helloproject.com){:target="_b
 * Euro Truck Simulator 2
 * Portal 1,2
 * Animal Crossing : Wild World
+
+## 추천하는 애니메이션
+
+* 신비한 바다의 나디아
+* 무한의 리바이어스
+* 신세기 에반게리온
+  * TV 판 (총 26화)
+  * 극장판(End Of Evangelion)
+* 에반게리온 신극장판
+  * 서, 파, Q, 리피트
+* 강철의 연금술사 Brotherhood
+* Zegapain
+* Steins;Gate
+* 너의 이름은.
+* 마법소녀 마도카☆마기카 ~~다음 극장판 빨리 좀 내놔라~~
 
 ## 업무 배경음악
 
