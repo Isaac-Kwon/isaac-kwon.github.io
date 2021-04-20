@@ -9,6 +9,8 @@ toc : true
 toc_label : "목차"
 toc_sticky : true
 toc_icon : "angle-right"  # corresponding Font Awesome icon name (without fa prefix) -->
+
+show_adsense : true
 ---
 
 본 포스트는 결국에는, 다음과 같은 문장을 말하고자 하는 것입니다.

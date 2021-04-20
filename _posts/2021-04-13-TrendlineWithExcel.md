@@ -9,6 +9,8 @@ toc : true
 toc_label : "목차"
 toc_sticky : true
 #toc_icon : "angle-right"  # corresponding Font Awesome icon name (without fa prefix) -->
+
+show_adsense : true
 ---
 
 Microsoft Excel 에서 데이터를 활용하여 그래프를 그리고, 최소제곱법을 활용하여 데이터에 대해 가장 맞는 직선을 그리는 방법에 대해 다룹니다.

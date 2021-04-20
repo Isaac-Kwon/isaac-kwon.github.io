@@ -9,6 +9,8 @@ toc : true
 toc_label : "목차"
 toc_sticky : true
 #toc_icon : "angle-right"  # corresponding Font Awesome icon name (without fa prefix) -->
+
+show_adsense : true
 ---
 <!-- 분포 분석은 다양한 방법으로 진행될 수 있는데, 그 중 곡선 피팅에 대해 다뤄보도록 한다. -->
 
