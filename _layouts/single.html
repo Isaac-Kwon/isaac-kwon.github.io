@@ -43,11 +43,14 @@ layout: default
         {% if page.last_modified_at %}Last Modified at {{page.last_modified_at}}{% endif %}
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
-      </section>
 
       {% if page.show_adsense == true %}
-      {% include adsense/text-based.html ad-slot="8881752136" %}
+      {% include adsense/image-based-2.html ad-slot="5937692890" %}
       {% endif %}
+
+      </section>
+
+
 
       <footer class="page__meta">
         {% if site.data.ui-text[site.locale].meta_label %}
