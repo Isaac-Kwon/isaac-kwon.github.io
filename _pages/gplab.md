@@ -11,7 +11,7 @@ taxonomy: gplab
 
 ~~전공이 전공인지라~~ 실험의 통계적 방법론에 대해서 많이 다룹니다.
 
-{% include adsense/image-based-2.html ad-slot="5937692890" %}
+{% include adsense/Image-based-2.html ad-slot="5937692890" %}
 
 # Related Posts
 
