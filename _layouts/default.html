@@ -12,10 +12,10 @@
   <head>
     {% include head.html %}
     {% include head/custom.html %}
-    {% if page.show_adsense == true %}
-      <!-- Google adsense smart location -->
+    <!-- Google adsense smart location -->
+    <!-- {% if page.show_adsense == true %}
       <script data-ad-client="ca-pub-7228327266672109" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-    {% endif %}
+    {% endif %} -->
   </head>
 
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
@@ -32,6 +32,20 @@
         {% include_cached search/search_form.html %}
       </div>
     {% endif %}
+
+    <!-- <div class="initial-content">
+      <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <div align="center" style="margin: 1em 0;">
+        <ins class="adsbygoogle"
+             style="display:block; border-bottom: initial;"
+             data-ad-client="ca-pub-7228327266672109"
+             data-ad-slot="4316438840"
+             data-ad-format="auto"></ins>
+        </div>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+      </script>
+    </div> -->
 
     <div class="page__footer">
       <footer>
