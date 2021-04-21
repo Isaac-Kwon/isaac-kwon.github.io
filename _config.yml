@@ -91,6 +91,9 @@ analytics:
     tracking_id          : "UA-137382638-1"
     anonymize_ip         : # true, false (default)
 
+# Adsense
+adsense:
+  ad-client : "ca-pub-7228327266672109"
 
 # Site Author
 author:
