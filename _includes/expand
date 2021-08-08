@@ -1,0 +1,6 @@
+<expand>
+  <details>
+    <summary>{{ include.title }}</summary>
+    {{ include.content | markdownify}}
+  </details>
+</expand>
