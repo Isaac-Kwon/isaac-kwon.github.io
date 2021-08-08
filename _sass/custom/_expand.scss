@@ -1,0 +1,29 @@
+
+
+expand {
+    // font-size: $type-size-5;
+    summary::-webkit-details-marker {
+        color: #afafaf;
+        margin-right: 5px;
+    }
+    summary:focus {
+        outline-style: none;
+    }
+    > details > summary {
+        margin-top: 16px;
+        font-weight: bold;
+    }
+    details > p {
+        margin-left: 24px;
+    }
+    details details {
+        margin-left: 36px;
+    }
+    details details summary {
+        font-weight: bold;
+    }
+
+    .MathJax_CHTML {
+        font-size: 1.2em !important;
+    }
+}

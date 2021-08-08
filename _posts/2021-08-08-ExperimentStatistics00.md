@@ -1,7 +1,7 @@
 ---
 layout : single
 title  : "측정과 통계"
-date   : 2021-04-13
+date   : 2021-08-08
 categories: posts
 tags:
   - gplab
