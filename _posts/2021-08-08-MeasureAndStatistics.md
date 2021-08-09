@@ -249,7 +249,7 @@ $$
 사람이 눈금으로 읽는 것이든 기계가 눈금을 읽어주는 것이든 반올림 되는 부분 인근에서는 측정의 불확정성을 보여줄 수 있습니다. 0 또는 1을 읽는 눈금이면, 참값이 0.5 부근이라면 0으로 읽을지 1로 읽을지  ~~당연히~~ 불분명할 것입니다. 이런 사실을 기반으로 그래프로 그리면 아래와 같은 참값에 따른 올림/버림에 대한 확률의 그래프가 나옵니다.
 
 ![](/assets/img/posts/gplab/ExperimentStatistics/p01_fig1.png)
-[Go to code (gist)](https://gist.github.com/Isaac-Kwon/a4e674c33f3fc30d543da2f5638d38b4#file-plot2-cpp)
+[Go to code (gist)](https://gist.github.com/Isaac-Kwon/a4e674c33f3fc30d543da2f5638d38b4#file-plot2-cpp){:target="_blank"}
 
 그러면, 저 $$\mathrm{sigma}$$를 어떻게 구하는지가 가장 큰 문제일 것입니다. 답은... 시도해보는 수 밖에 없습니다. 시도해볼 자신이 없다면, 측정에 필요한 정확도에 맞게, 명확하게 측정해줄 수 있는 장비를 사면 됩니다. ~~돈이면 다 됨~~
 
@@ -288,8 +288,8 @@ $$
 
 **과연 그럴까요?** ~~아니 당연하잖아~~
 
-![](/assets/img/posts/gplab/ExperimentStatistics/original_Projections_1to20.gif){:target="_blank"}
-[Go to code (gist)<sub>Canvas4</sub>](https://gist.github.com/Isaac-Kwon/a4e674c33f3fc30d543da2f5638d38b4#file-plot1-cpp)
+![](/assets/img/posts/gplab/ExperimentStatistics/original_Projections_1to20.gif)
+[Go to code (gist)<sub>Canvas4</sub>](https://gist.github.com/Isaac-Kwon/a4e674c33f3fc30d543da2f5638d38b4#file-plot1-cpp){:target="_blank"}
 
 위 그림은, $$5$$ 를 평균으로 하고 $$2$$ 를 표준편차로 하는 정규분포를 모분포로 하는 난수 생성기로부터, $$N$$개의 실수를 무작위 추출하여 평균을 구한 것을 변량으로 하는 히스토그램입니다. ($$5\mathrm{cm}$$ 가 측정값 모분포의 평균이고, $$2\mathrm{cm}$$ 가 표준편차인 측정환경으로부터 측정한 값 $$N$$ 개를 추출하여 평균을 취한것과 동일합니다.) 여기서의 "*$$N$$개의 실수를 무작위 추출한 평균*" 은 통계학에서 "**표본평균**" 이라고 부릅니다. 그리고 *그것과 함께 구할 수 있는 표준편차*는 "**표본표준편차**" 라고 부릅니다.
 
