@@ -1,6 +1,6 @@
 <expand>
   <details>
-    <summary>{{ include.title }}</summary>
+    <summary>{% if include.title %} {{ include.title }} {% else %} Click to expand {% endif %} </summary>
     {{ include.content | markdownify}}
   </details>
 </expand>
