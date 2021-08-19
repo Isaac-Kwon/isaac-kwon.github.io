@@ -323,9 +323,9 @@ $$5.0 \pm 0.00\mathrm{(stat.)} \pm 0.05\mathrm{(sys.)} \mathrm{~~with~} N=\mathr
 
 $$5.018 \pm 0.005\mathrm{(stat.)} \pm 0.0005\mathrm{(sys.)} \mathrm{~~with~} N=\mathrm{36} $$
 
-보통의 경우에는, 통계적 불확도 (위의 $$\mathrm{stat.}$$)와 계통적 불확도(위의 $$\mathrm{sys.}$$) 를 합성 $$(\sqrt{0.005^2 + 0.05^2}=0.00502)$$ 하여 표기하기 때문에,
+보통의 경우에는, 통계적 불확도 (위의 $$\mathrm{stat.}$$)와 계통적 불확도(위의 $$\mathrm{sys.}$$) 를 합성 $$(\sqrt{0.005^2 + 0.05^2}=0.0502)$$ 하여 표기하기 때문에,
 
-$$5.18 \pm 0.005 \mathrm{~~with~} N=36$$
+$$5.18 \pm 0.05 \mathrm{~~with~} N=36$$
 
 가 됩니다.
 
