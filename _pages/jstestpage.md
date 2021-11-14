@@ -3,6 +3,7 @@ layout: single
 title:  "Javascript Plugin Test Page"
 volume: 3
 permalink: /jstestpage/
+sitemap: false
 ---
 
 Javascript 로 구성된 요소가 사용자의 웹브라우저에 작동하는지 판단하기 위한 웹페이지입니다.  
