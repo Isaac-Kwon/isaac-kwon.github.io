@@ -5,7 +5,7 @@ permalink: /docs/history/
 excerpt: "Change log of enhancements and bug fixes made to the theme."
 sidebar:
   nav: docs
-last_modified_at: 2021-08-08T14:10:38-04:00
+last_modified_at: 2021-10-19T11:26:15-04:00
 toc: false
 ---
 
@@ -13,6 +13,9 @@ toc: false
 
 ### Bug Fixes
 
+- Fix sort order of Staticman comments when data files aren't named alphabetically. [#3184](https://github.com/mmistakes/minimal-mistakes/pull/3184)
+- Fix broken documentation link and add Baidu site verification to `_config.yml` files. [#3139](https://github.com/mmistakes/minimal-mistakes/pull/3139)
+- Fix `layout: compress` issue with HTML comment in video include. [#3117](https://github.com/mmistakes/minimal-mistakes/pull/3117)
 - Add Magnific Popup class to anchors that only contain an `img` element. [#3111](https://github.com/mmistakes/minimal-mistakes/issues/3111) [#3114](https://github.com/mmistakes/minimal-mistakes/pull/3114)
 - Fix heading level of related posts section from `h4` to `h2` to improve accessibility and SEO. [#3064](https://github.com/mmistakes/minimal-mistakes/pull/3064)
 - Fix grammar error in German localized UI text string. [#3063](https://github.com/mmistakes/minimal-mistakes/pull/3063)
@@ -20,6 +23,10 @@ toc: false
 
 ### Enhancements
 
+- Update and add missing Brazilian Portuguese translations. [#3204](https://github.com/mmistakes/minimal-mistakes/pull/3204)
+- Add link to documentation clarifying how to add plugins. [#3181](https://github.com/mmistakes/minimal-mistakes/pull/3181)
+- Add optional label attribute for utterances comments. [#3128](https://github.com/mmistakes/minimal-mistakes/pull/3128)
+- Bump path-parse from 1.0.6 to 1.0.7. [#3116](https://github.com/mmistakes/minimal-mistakes/pull/3116)
 - Add missing Danish translations. [#3095](https://github.com/mmistakes/minimal-mistakes/pull/3095)
 - Add ARIA role to search forms. [#3086](https://github.com/mmistakes/minimal-mistakes/pull/3086)
 - Add overflow scroll bar to sticky table of contents that are taller than the viewport's height. [#2874](https://github.com/mmistakes/minimal-mistakes/pull/2874)
