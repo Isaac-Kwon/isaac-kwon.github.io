@@ -1,6 +1,6 @@
 ---
 layout : single
-title  : "2021년 말, CERN 출장시 필요한 것들"
+title  : "CERN 출장시 필요한 것들(2021년 말, COVID-19 관련)"
 date   : 2021-11-14
 categories: posts
 toc : true
