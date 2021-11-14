@@ -144,5 +144,4 @@ CERN 부근에 상제니 입구에 검사소가 하나 있습니다.([50유로�
 
 제네바 공항에도 있습니다.(155-150프랑) [https://www2.m3-test.ch - 오른쪽 위 Francias 클릭하여 언어 변경](https://www2.m3-test.ch){:target="_blank"}
 
-
 > 필요시 더 업데이트 예정
