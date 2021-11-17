@@ -89,7 +89,8 @@ show_adsense : true
     * Your Identity card or passport (여권 스캔본)
     * Proof of vaccination dose(s) (영문 예방접종증명서)
     * Proof of stay in Geneva canton (hotel reservation, invoice with a Geneva address, etc.) (호텔 예약증명서, 제네바행 기차/항공기 e-Ticket 등)
-        * ***최소 하루는 제네바 소재 숙소에 있어야 한다고 합니다.(CERN Meryin Hostel도 되는지 확인 필요)***
+        * ***최소 하루는 제네바 소재 숙소에 있어야 한다고 합니다.***
+        * CERN Meryin Hostel 을 [호스텔 예약 페이지](https://edh.cern.ch/Hostel/Home)에 예약한 후 이메일로 받은 예약서류 pdf파일을 첨부하면 됩니다.(시도 및 확인 완료)
     * ***만약, 세가지 중 하나라도 엔트리에 뜨지 않는다면, 폼을 새로고침하신 후 새로 처음부터 순서대로 입력하여주세요.***
     * 하나라도 업로드되지 않으면 리젝트됩니다. (이렇게 리젝트 먹었습니다)
 6. 접수 후 5-7일정도 걸린다고 합니다. 이후 과정은 입력한 이메일이나, 휴대전화 문자메시지로 연락이 옵니다.
