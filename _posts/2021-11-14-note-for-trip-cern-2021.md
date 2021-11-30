@@ -147,6 +147,8 @@ show_adsense : true
 
 * PCR 음성일 것
 * 출발 일자로부터 3일 이내에 발급했을 것
+  * "날짜로" 계산했을 때 -3일까지.
+  * 현지시각 *12월 4일* 힝공편일 때, *12월 1일* 발급본부터 인정
 * 스스로 검사한 것이 아닐 것
   * CERN 에서, self-testing service 를 제공하나, 이것이 안된다는 뜻입니다.
 (이외 조건들도 있으나, 사소한... 문제...)
@@ -164,27 +166,25 @@ CERN 부근에 상제니 입구에 검사소가 하나 있습니다.([50유로�
 > 예약은 여기서 [https://covid.kaducee.com/](https://covid.kaducee.com/#/){:target="_blank"}  
 
 {% capture excontent %}
-
 * 왼쪽 위에 프랑스 국기 누르고 영어로 변경
 * 처음에 뜨는 우편번호는 ***01630***(St.genis pouilly 우편번호)
+  * 3km 이내로 잡으면, 대충 하나만 나옴
 * (테스트 사유) Select the reason(s) why you are getting tested
-  * 중간에 (밑에서 7번째) "I will soon take a transport means for which a test is required"
-  * 목적지 필요: Korea (the Republic of), Kor까지 입력하면 아래에 자동완성 뜸
+  * 중간에 "*I will soon take a transport means for which a test is required*"
+  * 목적지 필요: *Korea (the Republic of)*, Kor까지 입력하면 아래에 자동완성 뜸
   * 여권번호 입력
     * 입국PCR서류에 필수사항은 아니나, 이름이 틀릴 수 있으니 기재하는 것이 좋음.
-  * 백신을 맞은 경우
-    * 어느 백신? (화이자, 모더나, 아스트라제네카, 얀센 만 입력가능)
-    * 백신 1,2,3 차 접종 일자 입력 필요 (맞은데까지만 입력)
-  * COVID 증상이 있는 경우 입력
-  * 가능한 Slot 선택 가능 (오후 2시부터 오후 5시까지 30분 단위. 마지막 슬롯이 오후 4시30분 - 오후 5시)
-  * 이후 신청 서류
-    * Social Security Number 아래의 "Other nationality or not affiliated to the French social security system" 체크하면 보험 등 생략 가능
-    * 주소는 현재 체류중인 스위스/프랑스 주소 입력
-
+* 백신을 맞은 경우
+  * 어느 백신? (화이자, 모더나, 아스트라제네카, 얀센 만 입력가능)
+  * 백신 1,2,3 차 접종 일자 입력 필요 (맞은데까지만 입력)
+* COVID 증상이 있는 경우 입력
+* 가능한 Slot 선택 가능 (오후 2시부터 오후 5시까지 30분 단위. 마지막 슬롯이 오후 4시30분 - 오후 5시)
+* 이후 신청 서류
+  * *Social Security Number* 아래의 "*Other nationality or not affiliated to the French social security system*" 체크하면 보험 등 생략 가능
+  * 주소는 현재 체류중인 스위스/프랑스 주소 입력
 {% endcapture %}
-{% include expand title="클릭하여 펼치기 - 예약시 필요 사항" content=excontent %}
+{% include expand title="클릭하여 펼치기 - Mirialis 예약시 필요 사항" content=excontent %}
 
-
-제네바 공항에도 있습니다.(155-150프랑) [https://www2.m3-test.ch - 오른쪽 위 Francias 클릭하여 언어 변경](https://www2.m3-test.ch){:target="_blank"}
+코로나 검사는 제네바 공항에도 있습니다.(155-150프랑) [https://www2.m3-test.ch - 오른쪽 위 Francias 클릭하여 언어 변경](https://www2.m3-test.ch){:target="_blank"}
 
 > 필요시 더 업데이트 예정
