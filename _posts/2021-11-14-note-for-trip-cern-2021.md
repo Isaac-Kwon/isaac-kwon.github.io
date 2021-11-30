@@ -18,7 +18,7 @@ show_adsense : true
 1. ~~광명역 > 인천공항 셔틀버스는 운행중단 되었습니다.~~
     * ~~서울 이외의 지방에서 대중교통으로 접근할 때, 서울역발 공항철도가 가장 빠른 방법입니다.~~
     * **11월 18일부터, 광명역 - 인천공항 셔틀버스 운행이 재개됩니다.** [코레일 공지사항](https://www.letskorail.com/common/imageView.do?path=//EDITOR/20211113/5D9CD94311474846974453096CD10004){:target="_blank"}, [시간표](https://www.letskorail.com/common/imageView.do?path=//EDITOR/20211113/43E23E4B95E746F3AA0FC672EEEF792F){:target="_blank"}
-    * 서울역발 공항철도 직통열차는 운행중단되었습니다. 그대로 직통열차를 이용하고 싶다면 같은 기재의 완행열차인 특별열차를 이용하세요.[서울역 기준 시간표, 빨간 글자](https://www.arex.or.kr/station/info.do?stnCd=010&menuNo=MN201503300000000012&langCd=ko_KR&device=Normal){:target="_blank"}
+    * 서울역발 공항철도 직통열차는 운행중단되었습니다. 직통열차를 이용하고 싶다면 직통열차 기재를 쓰는 완행열차인 임시열차를 이용하세요.[서울역 기준 시간표, 빨간 글자](https://www.arex.or.kr/station/info.do?stnCd=010&menuNo=MN201503300000000012&langCd=ko_KR&device=Normal){:target="_blank"}
 2. ~~인천공항 > 광명역 셔틀버스는 자가격리면제자는 탈 수 없습니다.~~
     * ~~T2 기준 교통센터의 공항철도 카운터에서 격리면제자 여권 스티커를 제시하면 파란 종이 띠를 줍니다. 이것을 캐리어에 달고 공항철도로 서울역으로 가야 합니다.~~
     * **11월 18일부터, 광명역 - 인천공항 셔틀버스 운행이 재개됩니다.** [코레일 공지사항](https://www.letskorail.com/common/imageView.do?path=//EDITOR/20211113/5D9CD94311474846974453096CD10004){:target="_blank"}, [시간표](https://www.letskorail.com/common/imageView.do?path=//EDITOR/20211113/43E23E4B95E746F3AA0FC672EEEF792F){:target="_blank"}
@@ -32,6 +32,7 @@ show_adsense : true
     * ***토요일 작업을 하는 보건소의 경우라면, 금요일 아침까지는 한국에 들어와서 그 날 저녁까지 PCR 검사를 하는 것이 편합니다. 자세한 사항은 관할 보건소에 전화 문의하세요.*** 또는 [여기서 확인](https://www.mohw.go.kr/react/popup_200128_3.html)
 
 ## 한국 백신 증명서 발급
+
 (macOS 에서 발급 완료. 설치해야하는 프로그램이 그때 그때 있을 수 있습니다.)  
 **준비물: 공동인증서(구 공인인증서)**  
 **참고: 정부24홈페이지의 예방접종증명서는 국문본만 발급됩니다. 다음과 같이 질병관리청 예방접종 홈페이지에서 진행하셔야 영문본 발급을 할 수 있습니다.**  
@@ -55,17 +56,17 @@ show_adsense : true
 ## 유럽 내 건강 패스 발급
 
 **프랑스 건강 패스나, 스위스 건강 패스 둘 중 하나만 발급받으셔도 EU 전체에서 사용가능합니다. 둘 중 하나만 발급받으셔도 됩니다.**  
-백신 패스를 발급 받지 못하셨어도 일상생활에는 큰 문제가 없습니다.
+건강 패스를 발급 받지 못하셨어도 일상생활에는 큰 문제가 없습니다.  
 영문본 예방접종증명서(또는 3일 이내 음성판정증명서)와 여권을 지참하시면 백신 패스를 프랑스사이드에서는 대체할 수 있었습니다. (오브라쉐, 르꼬끄에서 시도해봄)  
 다만, 스위스사이드에서는 10월 25일부터 대체가 불가능할 것이라는 이야기가 있었습니다.[(기사 링크)](https://www.schengenvisainfo.com/news/switzerland-travellers-from-third-countries-can-now-apply-for-swiss-covid-19-certificate/){:target="_blank"}
 
 백신 패스(또는 예방접종증명서 또는 3일 이내 음성판정증명서)가 필요한 경우는 다음과 같습니다.  
 
-* CERN 바깥 식당에서 실내 취식 (바깥 테이블에서 먹는 것은 상관 없음)
+* CERN 구내식당이 아닌 식당에서 실내 취식 (바깥 테이블에서 먹는 것은 상관 없음)
 * CERN 바깥의 실내 행사장
 * 항공기 탑승(거의 매번 검사함), 철도 탑승(검사하는 것을 본 적은 없음)
 
-### 프랑스 
+### 프랑스
 
 * 준비물: 여권, 백신 증명서 영문판 실물, 36유로
     * 예전에는 인터넷 발급도 가능했는데(심지어 비용도 없었는데), 현재는 중단된 모양입니다. 프랑스 내 일부 약국에서 오프라인 발급이 가능합니다. [https://www.sante.fr/how-to-obtain-a-french-health-pass](https://www.sante.fr/how-to-obtain-a-french-health-pass){:target="_blank"}
@@ -81,7 +82,7 @@ show_adsense : true
 1. 제네바 주정부 발급 페이지에 접속합니다.
     * [https://smc02.hug.ch/surveys/?s=WA39AEN9T3CYMK9W](https://smc02.hug.ch/surveys/?s=WA39AEN9T3CYMK9W){:target="_blank"}
 2. 위에서부터 순서대로 개인정보를 입력해줍니다.
-    * (프랑스어로 뜬다면, 오른쪽 상단 파란 버튼 Francias클릭하시고 English 를 클릭하시면 됩니다.)
+    * (프랑스어로 뜬다면, 오른쪽 상단 파란 버튼 Français클릭하시고 English 를 클릭하시면 됩니다.)
 3. 중간의 국가명은 한국의 경우 Coreé du sud (+82) 로 되어있습니다.
     * 전화번호 입력이니, 프랑스/스위스 번호를 쓰시는 분은 해당 번호로 입력하시면 됩니다.
 4. 마지막의, 첨부파일은 **각 엔트리마다 파일을 하나씩만** 올릴 수 있습니다. 한 문서가 여러 페이지일 경우 PDF로 만드시길 바랍니다.
@@ -90,16 +91,27 @@ show_adsense : true
     * Proof of vaccination dose(s) (영문 예방접종증명서)
     * Proof of stay in Geneva canton (hotel reservation, invoice with a Geneva address, etc.) (호텔 예약증명서, 제네바행 기차/항공기 e-Ticket 등)
         * ***최소 하루는 제네바 소재 숙소에 있어야 한다고 합니다.***
-        * CERN Meryin Hostel 을 [호스텔 예약 페이지](https://edh.cern.ch/Hostel/Home)에 예약한 후 이메일로 받은 예약서류 pdf파일을 첨부하면 됩니다.(시도 및 확인 완료)
+        * CERN Meryin Hostel 을 [호스텔 예약 페이지](https://edh.cern.ch/Hostel/Home)에서 예약한 후 이메일로 받은 예약서류 pdf파일을 첨부하면 됩니다.(성공 사례)
     * ***만약, 세가지 중 하나라도 엔트리에 뜨지 않는다면, 폼을 새로고침하신 후 새로 처음부터 순서대로 입력하여주세요.***
-    * 하나라도 업로드되지 않으면 리젝트됩니다. (이렇게 리젝트 먹었습니다)
-6. 접수 후 5-7일정도 걸린다고 합니다. 이후 과정은 입력한 이메일이나, 휴대전화 문자메시지로 연락이 옵니다.
+    * 엔트리가 뜨지 않아 업로드를 못했고, 그대로 접수했다면 리젝트됩니다. (리젝트 사례)
+6. 접수 후 5-7일까지 걸린다고 합니다. 이후 과정은 입력한 이메일이나, 휴대전화 문자메시지로 연락이 옵니다.
+    * 빠르면 이틀만에도 나옵니다.
     * 리젝트되는 경우는 이메일로만 옵니다.
 
 자세한 사항은 다음 링크를 참고해주세요. [(제네바 주정부 공지사항)](https://www.ge.ch/en/covid-19-certificate/covid-certificates-e-demarches-application-form){:target="_blank"}
  
-참고) 스위스 보건청 공식으로, 아래 링크에서 예방접종증명서를 변환해주는 폼(비용 30프랑)을 운영하고 있습니다만, 확인해본바로는 제네바는 아직 시스템 편입이 되어있지 않아 위 링크(제네바대학병원)로 안내하고 있습니다.(2021년 11월 11일 기준)
+참고) 스위스 보건청 공식으로, 아래 링크에서 예방접종증명서를 변환해주는 폼(비용 30프랑)을 운영하고 있습니다만, 확인해본 바로는 제네바는 아직 시스템 편입이 되어있지 않아 위 링크(제네바대학병원)로 안내하고 있습니다.(2021년 11월 11일 기준)
 [https://covidcertificate-form.admin.ch/foreign](https://covidcertificate-form.admin.ch/foreign){:target="_blank"}
+
+### 건강 패스 제시 방법
+
+* 건강 패스는 *인쇄하여* 들고다니거나, *스마트폰 어플리케이션*에 저장할 수 있습니다. 
+* **건강 패스는 신원증명수단이 아닙니다.**
+* 유효한 신원증명수단 (예시: 여권) 과 함께 가지고 다니셔야 합니다. (사진 달린 신분증을 보여달라고 할 때가 있습니다.)
+* 스마트폰 어플리케이션은 다음과 같습니다.
+  * 스위스 어플에서도 프랑스의 건강 패스를 저장할 수 있고, 프랑스 어플에서도 스위스의 건강 패스를 저장할 수 있습니다.
+  * AntiCovid (프랑스)
+  * Covid Cert (스위스)
 
 ## 스위스 입국시 특이사항
 스위스 입국 시 다음 사이트에서 입국 양식을 작성하셔야 합니다. 작성한 후 이메일로 오는 PDF 파일을 화면으로 제시해도 되고, 인쇄하여 소지하셔도 됩니다. 다만, 입국 48시간 이내 작성이기 때문에 인쇄하여 들고오는 것은 무리가 있을 수 있습니다.
@@ -112,7 +124,7 @@ show_adsense : true
 
 * COVID 관련 LMS 이수
   * COVID-19 - Health & Safety Measures at CERN / Mesures d'Hygiène et de Sécurité au CERN [Link](https://lms.cern.ch/ekp/servlet/ekp?PX=N&TEACHREVIEW=N&PTX=&CID=EKP000043435&TX=FORMAT1&LANGUAGE_TAG=*ALL*&DECORATEPAGE=N){:target="_blank"}
-* CERN-공항 셔틀 없습니다. 다른 버스타고 Blandonnet 에서 18번타고 오세요
+* CERN-공항 셔틀 없습니다. 다른 버스타고 Blandonnet 에서 트램 18번타고 오세요.
 * R1 이 주말에 문을 안열어요!
   * 모든 구내식당이, 주말에 문을 열지 않습니다.
   * 다만, R1 근처의 ATLAS-CMS (40번) 빌딩 0층 카페테리아가 07h30m - 19h30m 문을 엽니다. 이쪽으로 가세요.
@@ -123,8 +135,9 @@ show_adsense : true
   * 다음 LMS 이수가 필요합니다.
     * COVID-19 - Proximeter & Contact Tracing / Proximètre & Traçage des contacts [Link](https://lms.cern.ch/ekp/servlet/ekp?PX=N&TEACHREVIEW=N&PTX=&CID=EKP000043651&TX=FORMAT1&LANGUAGE_TAG=*ALL*&DECORATEPAGE=N){:target="_blank"}
   * [여기서](https://proximeter-dist.web.cern.ch){:target="_blank"} 예약한 후, 해당 시간에 받아가면 됩니다.
-  * 충전기도 줍니다.
-  * 출장이 끝날 때 반납할 필요는 없습니다. CERN 계약이 끝날 때(졸업 등 더이상 CERN과 연관이 없어질 때) 반납하라고 합니다. (계속 가지고 다니라는 뜻)
+  * 충전기도 줍니다.(USB Micro-B)
+  * 출장이 끝날 때 반납할 필요는 없습니다. CERN 계약이 끝날 때(졸업 등 더이상 CERN과 연관이 없어질 때) 반납하라고 합니다. (본국에 가지고 왔다가 다시 들고가기 or CERN 오피스에 두고 가기)
+* 상제니 르꼬끄 옆 케밥집 사라졌습니다.
 
 ## 귀국 전 PCR검사
 
@@ -138,15 +151,39 @@ show_adsense : true
   * CERN 에서, self-testing service 를 제공하나, 이것이 안된다는 뜻입니다.
 (이외 조건들도 있으나, 사소한... 문제...)
 
-CERN EDH Duty Travel 을 통해 여정을 계획했을 경우 CERN Medical Service 에서 검사를 진행했었습니다만, 11월 15일부터 CERN On-site 검사는 하지 않고 외부 기관에 직접 방문하여 검사하면 그 비용을 반환해준다고 합니다. (Duty Travel 로 안한 경우에는 개인 비용)
+CERN EDH Duty Travel 을 통해 여정을 계획/예약했을 경우 CERN Medical Service 에서 검사를 진행했었습니다만, 11월 15일부터 CERN On-site 검사는 하지 않고 외부 기관에 직접 방문하여 검사하면 그 비용을 반환해준다고 합니다. (Duty Travel 로 안한 경우에는 개인 비용)
 
-CERN 부근에 상제니 입구에 검사소가 하나 있습니다.([50유로정도?](https://www.schengenvisainfo.com/news/france-to-make-covid-19-tests-taken-for-travel-purposes-chargeable-starting-from-friday/)) (그 외 [프랑스 검사소 목록](https://www.sante.fr/cf/centres-depistage-covid/departement-01-ain.html){:target="_blank"})  
+CERN 부근에 상제니 입구에 검사소가 하나 있습니다.([50유로정도?](https://www.schengenvisainfo.com/news/france-to-make-covid-19-tests-taken-for-travel-purposes-chargeable-starting-from-friday/)) (그 외 [프랑스 검사소 목록](https://www.sante.fr/cf/centres-depistage-covid/departement-01-ain.html){:target="_blank"}, 2021년 11월 30일 기준 44유로)
 (상제니 큰 로타리에서 상제니 호스텔방향에 있는 흰건물. 심지어 보행자/자전거용 Shortcut도 있음)
 
 > **Mirialis BioGroup Lab**  
 > 110 rue Germain Tillion, 01630 St Genis Pouilly  
 > 04 50 20 63 30  
-> Without appointment Mon to Fri 14h-17h
+> Without appointment Mon to Fri 14h-17h  
+> 예약 없이 가도 되긴 한데, 예약자를 우선으로 받습니다.  
+> 예약은 여기서 [https://covid.kaducee.com/](https://covid.kaducee.com/#/){:target="_blank"}  
+
+{% capture excontent %}
+
+* 왼쪽 위에 프랑스 국기 누르고 영어로 변경
+* 처음에 뜨는 우편번호는 ***01630***(St.genis pouilly 우편번호)
+* (테스트 사유) Select the reason(s) why you are getting tested
+  * 중간에 (밑에서 7번째) "I will soon take a transport means for which a test is required"
+  * 목적지 필요: Korea (the Republic of), Kor까지 입력하면 아래에 자동완성 뜸
+  * 여권번호 입력
+    * 입국PCR서류에 필수사항은 아니나, 이름이 틀릴 수 있으니 기재하는 것이 좋음.
+  * 백신을 맞은 경우
+    * 어느 백신? (화이자, 모더나, 아스트라제네카, 얀센 만 입력가능)
+    * 백신 1,2,3 차 접종 일자 입력 필요 (맞은데까지만 입력)
+  * COVID 증상이 있는 경우 입력
+  * 가능한 Slot 선택 가능 (오후 2시부터 오후 5시까지 30분 단위. 마지막 슬롯이 오후 4시30분 - 오후 5시)
+  * 이후 신청 서류
+    * Social Security Number 아래의 "Other nationality or not affiliated to the French social security system" 체크하면 보험 등 생략 가능
+    * 주소는 현재 체류중인 스위스/프랑스 주소 입력
+
+{% endcapture %}
+{% include expand title="클릭하여 펼치기 - 예약시 필요 사항" content=excontent %}
+
 
 제네바 공항에도 있습니다.(155-150프랑) [https://www2.m3-test.ch - 오른쪽 위 Francias 클릭하여 언어 변경](https://www2.m3-test.ch){:target="_blank"}
 
