@@ -165,7 +165,7 @@ CERN EDH Duty Travel 을 통해 여정을 계획/예약했을 경우 CERN Medica
 
 {% capture excontent %}
 D-3 : PCR 검사  
-D-2 : PCR 검사 수령 및 대사관 예약  
+D-2 : PCR 검사 수령 및 대사관 예약, 번역본 작성 및 인쇄  
 D-1 : 베른 대사관 갔다오기  
 D-0 : 항공편 탑승  
 {% endcapture %}
