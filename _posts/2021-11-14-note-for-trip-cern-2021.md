@@ -224,7 +224,7 @@ D-0 : 항공편 탑승
   * 버스정류장: Tour-de-Contrôle. Blandonnet 에서 Aéroport 방향 23, 28, 57
   * 이지젯 로고가 보이는 터미널 건물 앞에서 내리면 됩니다.
 * 가격: CHF 150 (비강 유래 PCR 기준.)
-  * Fling Blue 마일리지 번호 (에어프랑스-KLM) 있으면 CHF 110 로 할인.
+  * Flying Blue 마일리지 번호 (에어프랑스-KLM) 있으면 CHF 110 로 할인.
   * Express 로 하면, CHF 50 추가.
     * 오후 4시 30분 이전 접수시 그날 자정 전에, 이후 접수시 다음날 정오 전까지 결과 전달 보장.
 * 예약 사이트: [https://www2.m3-test.ch - 오른쪽 위 Francias 클릭하여 언어 변경](https://www2.m3-test.ch){:target="_blank"}
