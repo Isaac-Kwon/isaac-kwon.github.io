@@ -148,22 +148,41 @@ show_adsense : true
 * PCR 음성일 것
 * 출발 일자로부터 3일 이내에 발급했을 것
   * "날짜로" 계산했을 때 -3일까지.
-  * 현지시각 *12월 4일* 항공편일 때, *12월 1일* 발급본부터 인정
+  * 현지시각 *12월 4일* 출발 항공편일 때, *12월 1일* 발급본부터 인정
 * 스스로 검사한 것이 아닐 것
   * CERN 에서, self-testing service 를 제공하나, 이것이 안된다는 뜻입니다.
 (이외 조건들도 있으나, 사소한... 문제...)
 
 CERN EDH Duty Travel 을 통해 여정을 계획/예약했을 경우 CERN Medical Service 에서 검사를 진행했었습니다만, 11월 15일부터 CERN On-site 검사는 하지 않고 외부 기관에 직접 방문하여 검사하면 그 비용을 반환해준다고 합니다. (Duty Travel 로 안한 경우에는 개인 비용)
 
-CERN 부근에 상제니 입구에 검사소가 하나 있습니다.([50유로정도?](https://www.schengenvisainfo.com/news/france-to-make-covid-19-tests-taken-for-travel-purposes-chargeable-starting-from-friday/)) (그 외 [프랑스 검사소 목록](https://www.sante.fr/cf/centres-depistage-covid/departement-01-ain.html){:target="_blank"}, 2021년 11월 30일 기준 44유로)
-(상제니 큰 로타리에서 상제니 호스텔방향에 있는 흰건물. 심지어 보행자/자전거용 Shortcut도 있음)
+### 상제니 입구 검사소 (Mirialis BioGroup Lab)
 
-> **Mirialis BioGroup Lab**  
-> 110 rue Germain Tillion, 01630 St Genis Pouilly  
-> 04 50 20 63 30  
-> Without appointment Mon to Fri 14h-17h  
-> 예약 없이 가도 되긴 한데, 예약자를 우선으로 받습니다.  
-> 예약은 여기서 [https://covid.kaducee.com/](https://covid.kaducee.com/#/){:target="_blank"}  
+> ***증명서에 RT-PCR 이라고 적혀 나오긴 하는데, 정확하게 명시가 되어있는 것이 아니고, 앞 뒤 단어들 모두가 프랑스어입니다.***  
+> ***본 증명서는, 프랑스어 → 한국어 번역 후 베른 소재 대한민국 대사관에 가서 번역 공증을 받아야 제출에 안전할 것으로 보입니다.***  
+> ***왕복 교통시간 7시간 + 70프랑이 아깝지 않다면 갔다오세요***  
+> ***(세명치를 동시에 가져가면 해볼만 함.)***  
+> ***(인천공항 들어가면서 번역 없이 쓸 수 있을지 물어볼 예정)***
+
+* 위치: 상제니 큰 로타리에서 상제니 호스텔 방향에 있는 흰건물. (Maison Medicale)
+  * 110 rue Germain Tillion, 01630 St Genis Pouilly
+  * 공식 Shortcut은 아닌데 큰 로타리에서 바로 건물 앞까지 걸어들어가는 샛길이 있음.  
+* 가격: EUR 44.0 (2021년 11월 30일 기준)
+* 검사 시간: Mon to Fri 14h-17h
+* 예약 사이트: [https://covid.kaducee.com/](https://covid.kaducee.com/#/){:target="_blank"}  
+  * 예약 없이 가도 되긴 한데, 예약자를 우선으로 받습니다.  
+* 전화번호: +33 04 50 20 63 30
+* 결과는 24시간 이내에 이메일로 URL+인증 코드를 주고, 접속해서 PDF를 다운하는 방식.
+  * France DGS QR 코드는 따로 다른 메일로 옴.
+
+
+{% capture excontent %}
+* 오브라쉐-국제학교 앞길<sub>Rue de Malivert</sub>로 들어오다가,
+* Lyceè 국제학교와 Au fil de l'o (Centre Aquatique St.genis) 사이 길로 들어온 다음
+* 상제니 호스텔 앞에서 우회전 (직진 불가능한 삼거리일 것임.)<sub>Rue de Marie-Claude Vaillant</sub>.
+* 정면에 보이는 삼각기둥 흰 건물.
+{% endcapture %}
+{% include expand title="클릭하여 펼치기 - 샛길이 공사 등으로 통행불가한 경우..." content=excontent %}
+
 
 {% capture excontent %}
 * 왼쪽 위에 프랑스 국기 누르고 영어로 변경
@@ -184,7 +203,29 @@ CERN 부근에 상제니 입구에 검사소가 하나 있습니다.([50유로�
   * 주소는 현재 체류중인 스위스/프랑스 주소 입력
 {% endcapture %}
 {% include expand title="클릭하여 펼치기 - Mirialis 예약시 필요 사항" content=excontent %}
+<br>
+  
+그 외 프랑스 검사소...
+[목록](https://www.sante.fr/cf/centres-depistage-covid/departement-01-ain.html){:target="_blank"}, [가격은 50유로정도가 표준인 듯](https://www.schengenvisainfo.com/news/france-to-make-covid-19-tests-taken-for-travel-purposes-chargeable-starting-from-friday/){:target="_blank"}
 
-코로나 검사는 제네바 공항에도 있습니다.(155-150프랑) [https://www2.m3-test.ch - 오른쪽 위 Francias 클릭하여 언어 변경](https://www2.m3-test.ch){:target="_blank"}
+
+### 제네바 공항 T2 검사소 (M3)
+
+* 위치: 제네바 공항 T2
+  * 버스정류장: Tour-de-Contrôle. Blandonnet 에서 Aéroport 방향 23, 28, 57
+  * 이지젯 이지젯 로고가 보이는 터미널 건물 앞에서 내리면 됩니다.
+* 가격: CHF 150 (비강 유래 PCR 기준.)
+  * Fling Blue 마일리지 번호 (에어프랑스-KLM) 있으면 CHF 110 로 할인.
+  * Express 로 하면, CHF 50 추가.
+    * 오후 4시 30분 이전 접수시 그날 자정 전에, 이후 접수시 다음날 정오 전까지 결과 전달 보장.
+* 예약 사이트: [https://www2.m3-test.ch - 오른쪽 위 Francias 클릭하여 언어 변경](https://www2.m3-test.ch){:target="_blank"}
+  * 예약 시간보다 먼저 가도 받아줍니다(대충 뒤쯤에 예약 넣어놓고 앞에 가도 됨).
+  * 정보를 예약 QR코드에서 받아오기 때문에, 예약은 꼭 하는 것을 추천.
+* 결과는 24시간 이내에 이메일/SMS로 URL+인증 코드를 주고, 접속해서 PDF를 다운하는 방식.
+  * 낮 12시 반 경에 검사했는데, 밤 10시 50분경에 결과 받음. (Express 안함. 2021년 12월 1일.)
+  * SwissCovid Cert 도 한번에 다 받을 수 있음.
+  * 검사결과(Attestation)는 프랑스어 파일과 영어 파일을 따로 줌.
+
+다른 스위스 검사소도, 별 이유 없이(여행 증명 포함) 검사결과를 요구하는 경우 CHF 150 정도로 정률제인 듯.
 
 > 필요시 더 업데이트 예정
