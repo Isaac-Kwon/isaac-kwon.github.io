@@ -163,6 +163,14 @@ CERN EDH Duty Travel 을 통해 여정을 계획/예약했을 경우 CERN Medica
 > ***(세명치를 동시에 가져가면 해볼만 함.)***  
 > ***(인천공항 들어가면서 번역 없이 쓸 수 있을지 물어볼 예정)***
 
+{% capture excontent %}
+D-3 : PCR 검사  
+D-2 : PCR 검사 수령 및 대사관 예약  
+D-1 : 베른 대사관 갔다오기  
+D-0 : 항공편 탑승  
+{% endcapture %}
+{% include expand title="클릭하여 펼치기 - 대충 안전한 일정" content=excontent %}
+
 * 위치: 상제니 큰 로타리에서 상제니 호스텔 방향에 있는 흰건물. (Maison Medicale)
   * 110 rue Germain Tillion, 01630 St Genis Pouilly
   * 공식 Shortcut은 아닌데 큰 로타리에서 바로 건물 앞까지 걸어들어가는 샛길이 있음.  
@@ -172,7 +180,8 @@ CERN EDH Duty Travel 을 통해 여정을 계획/예약했을 경우 CERN Medica
   * 예약 없이 가도 되긴 한데, 예약자를 우선으로 받습니다.  
 * 전화번호: +33 04 50 20 63 30
 * 결과는 24시간 이내에 이메일로 URL+인증 코드를 주고, 접속해서 PDF를 다운하는 방식.
-  * France DGS QR 코드는 따로 다른 메일로 옴.
+  * 오후 2시 반경 검사를 했는데, 결과는 밤 10시경 받았습니다. (2021년 11월 30일.)
+  * France DGS QR 코드는 따로 다른 메일로 옵니다.
 
 
 {% capture excontent %}
@@ -213,7 +222,7 @@ CERN EDH Duty Travel 을 통해 여정을 계획/예약했을 경우 CERN Medica
 
 * 위치: 제네바 공항 T2
   * 버스정류장: Tour-de-Contrôle. Blandonnet 에서 Aéroport 방향 23, 28, 57
-  * 이지젯 이지젯 로고가 보이는 터미널 건물 앞에서 내리면 됩니다.
+  * 이지젯 로고가 보이는 터미널 건물 앞에서 내리면 됩니다.
 * 가격: CHF 150 (비강 유래 PCR 기준.)
   * Fling Blue 마일리지 번호 (에어프랑스-KLM) 있으면 CHF 110 로 할인.
   * Express 로 하면, CHF 50 추가.
