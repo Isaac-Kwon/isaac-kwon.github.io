@@ -38,8 +38,8 @@ Hello Project. [<sub>Information</sub>](http://www.helloproject.com){:target="_b
 * 기타 기기
   * XP-Pen Artist 12 Pro  
     화상강의용 / 노트용 태블릿으로 샀는데 미팅용으로밖에 안씀. ~~아이패드를 새로 사야하나 봄.~~ 결국 아이패드 삼.
-  * Keychron K2
-    macOS 최적회 기계식 텐키리스 키보드
+  * Keychron K2  
+    macOS 최적화 기계식 텐키리스 키보드
   * Apple MagicMouse (구형, 신형)  
     역시 애플에는 애플기기를 써야 함. 건전지 교체모델인게 괜찮음. 신형은 구형이 이제 안팔아서 샀음. 
   * Bose QC 25  
