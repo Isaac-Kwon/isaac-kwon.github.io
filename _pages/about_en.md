@@ -42,4 +42,4 @@ CV : [Download](/assets/files/MKWON_CV.pdf)
 |                     | Simple, cheap, easily hackable particle detector |
 | Engineering | Human Engineering : Designing Interface to minimize human-error |
 | Others | Medical Physics |
-|        | Experiment Visualization <sub> with Unreal Engine </sub> |
+|        | Experiment Visualization <sub> with Unreal Engine and Unity </sub> |

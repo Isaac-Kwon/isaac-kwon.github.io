@@ -42,4 +42,4 @@ CV (영어) : [Download](/assets/files/MKWON_CV.pdf)
 |         | 간단하고, 저가이며 쉽게 분해, 조립, 탐구 가능한 입자검출기 |
 | 공학 | 인간 공학 : 인적 오류를 최소화 하는 사용자 인터페이스 |
 | 기타 | 의료물리학 |
-|     | 실험의 시각화 <sub> 주로 Unreal Engine 을 활용하여. </sub>
+|     | 실험의 시각화 <sub> Unity, Unreal Engine 활용. </sub>

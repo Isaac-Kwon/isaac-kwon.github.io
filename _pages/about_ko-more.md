@@ -19,6 +19,7 @@ Hello Project. [<sub>Information</sub>](http://www.helloproject.com){:target="_b
     * GPU (외장): Radeon Pro Vega 20 VRAM 4GB  
     ~~쭉 보면 알겠지만, 컴퓨터로 밥벌어먹고 삽니다.~~
   * MacBook Air 11' 2012, 최하 옵션
+  * Surface Pro 4 
 * 모바일기기 (4세대 이동통신 가능류)
   * Galaxy S10 (SM-973N)  
     사실상 카메라 겸용 이메일기기. 화면상 지문인식때문에 삼.
@@ -37,7 +38,7 @@ Hello Project. [<sub>Information</sub>](http://www.helloproject.com){:target="_b
 * 기타 기기
   * XP-Pen Artist 12 Pro  
     화상강의용 / 노트용 태블릿으로 샀는데 미팅용으로밖에 안씀. ~~아이패드를 새로 사야하나 봄.~~ 결국 아이패드 삼.
-  * Keychrone K2
+  * Keychron K2
     macOS 최적회 기계식 텐키리스 키보드
   * Apple MagicMouse (구형, 신형)  
     역시 애플에는 애플기기를 써야 함. 건전지 교체모델인게 괜찮음. 신형은 구형이 이제 안팔아서 샀음. 
@@ -82,11 +83,9 @@ Hello Project. [<sub>Information</sub>](http://www.helloproject.com){:target="_b
   * Parallel Computing Toolbox
   * Partial Differential Equation Toolbox
   * Wavelet Toolbox
-* Parallels Desktop  
-  차라리 부트캠프 쓰는게 속편한데, 켜져있는 프로그램을 다 꺼야하는 것이 아까울 때.
 * Visual Studio Code  
   모든 개발 / TeX 작업 전부 이걸로 함
-* UnrealEngine  
+* UnrealEngine, Unity  
   연습중... 목표는 시뮬레이션을 영상화하는 것...
 
 ## 쓰는 프로그래밍 언어
