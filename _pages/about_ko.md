@@ -5,7 +5,7 @@ permalink: /about_ko/
 ---
 
 This page in English (영어 페이지): [Link](/about)  
-CV (영어) : [Download](/assets/files/MKWON_CV.pdf)
+CV (영어) : [Download](/assets/files/MKWON_CV.pdf)  
 CV (한국어) : [Download](/assets/files/MKWON_CV-KR.pdf)
 
 **TMI** 는 [이쪽](/about_ko-tmi)
