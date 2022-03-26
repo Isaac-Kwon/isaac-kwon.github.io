@@ -46,8 +46,8 @@ Hello Project. [<sub>Information</sub>](http://www.helloproject.com){:target="_b
     Bose 노이즈캔슬링 해드폰 중 이제는 없는 배터리 교체 모델. ~~아무튼 배터리는 교체되어야 함. (유선이지만...)~~
   * 한성 GK868B  
     ~~크기 작은 무접점키보드 (무선 지원)~~ > 가끔 씀
+  * 한성 GK898B  
   * Lenovo Ultranav Keyboard (유선)  
-    ~~크기가 작아서 좋긴 한데 조만간 바꿀거임. 빨콩이의 추억에 산 것. (2017년에 삼)~~ > 이제 잘 안씀.
 
 ## 쓰는 주요 소프트웨어
 
@@ -93,7 +93,7 @@ Hello Project. [<sub>Information</sub>](http://www.helloproject.com){:target="_b
 * C++
   * 주로 ROOT 라이브러리, Interpreter 씀
 * Python
-  * 보통 Python 3.7씀. Python 2 극혐함. ~~2는 이제 지원 안하잖아~~
+  * 보통 Python 3.7씀. Python 2 극혐함. ~~2는 이제 지원 안함~~
 * MATLAB
   * 빨리 그래프를 그려야 하지만 숫자도 봐야할 때
 * Mathematica
