@@ -21,13 +21,14 @@ Hello Project. [<sub>Information</sub>](http://www.helloproject.com){:target="_b
   * MacBook Air 11' 2012, 최하 옵션
   * Surface Pro 4 
 * 모바일기기 (4세대 이동통신 가능류)
+  * iPhone 14 Pro  
+  * iPad Pro 11" (2020) 256GB
+    * with Apple Pencil 2
+    * Smart Case Folio
   * Galaxy S10 (SM-973N)  
     사실상 카메라 겸용 이메일기기. 화면상 지문인식때문에 삼.
   * iPhone 7 (MN922KH/A)  
     iPhone 6 Plus 가 iOS 13 지원을 안하는 바람에, Apple Reminder 가 iCloud 동기화가 안되어서 급하게 사서 쓰는 중.
-  * iPad Pro 11" (2020) 256GB
-    * with Apple Pencil 2
-    * Smart Case Folio
   * Galaxy Watch 2 (SM-R815N)  
     사실상 삐삐 + 심박수 체커
   * iPhone 6 Plus  (A1524, NGAK2KH/A)  

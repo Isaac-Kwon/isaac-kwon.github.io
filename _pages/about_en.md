@@ -10,13 +10,17 @@ I'm Minjae Isaac Kwon, from Republic of Korea.
 CV (English) : [Download](/assets/files/MKWON_CV.pdf)  
 CV (Korean) : [Download](/assets/files/MKWON_CV-KR.pdf)
 
-# Education
+## Working
+
+- SEP2022 - *Present* : __Researcher__, Natural Science Research Institute(NSRI), University of Seoul, Seoul, Republic of Korea
+
+## Education
 
 - MAR2015 - FEB2019 : __Bachelor of Science (B.S.)__, Physics, Pusan National University, Busan, Republic of Korea.  
 - MAR2019 - FEB2022 : __Master of Science (M.S.)__, Physics, Pusan National University, Busan, Republic of Korea.
-- Mar2022 - *present* : __Ph.D Course__, Physics, Pusan National University, Busan, Republic of Korea.
+- Mar2022 - AUG2022 : __Ph.D Course__, Physics, Pusan National University, Busan, Republic of Korea.
 
-# Interests
+## Interests
 <!-- * Physics
   * Exploring QCD phase diagram
   * 1st order phase transition between hadronic matter and quark gluon plasma
