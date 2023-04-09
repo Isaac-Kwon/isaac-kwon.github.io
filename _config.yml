@@ -111,15 +111,15 @@ author:
   location         : "Busan, Republic of Korea"
   email            : #"minjae.issac.kwon@gmail.com"
   links:
-    - label: "Email (Univ.)"
+    - label: "Email (Work)"
       icon: "far fa-fw fa-envelope"
-      url:  mailto:isaac@pusan.ac.kr
+      url:  mailto:isaac@uos.ac.kr
     - label: "Email (Personal)"
       icon: "fas fa-fw fa-envelope"
       url:  mailto:minjae.isaac.kwon@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url:  "https://isaac-kwon.github.io"
+      url:  "https://isaack.dev"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -131,7 +131,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Isaac-Kwon"
-      # url: "https://github.com/"
+    - label: "Personal Wiki"
+      icon: "fab fa-fw fa-wikipedia-w"
+      url: "https://wiki.isaack.dev"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
