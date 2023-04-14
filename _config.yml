@@ -135,7 +135,7 @@ author:
       icon: "fab fa-fw fa-wikipedia-w"
       url: "https://wiki.isaack.dev"
     - label: "HEP References"
-      icon: "fab fa-fw fa-link"
+      icon: "fas fa-fw fa-link"
       url: "https://hep.isaack.dev"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
