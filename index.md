@@ -2,7 +2,6 @@
 layout: archive
 author_profile: true
 ---
-# Frontpage
 
 Welcome to Minjae Isaac Kwon's Homepage!
 
