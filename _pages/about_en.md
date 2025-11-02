@@ -12,13 +12,13 @@ CV (Korean) : [Download](/assets/files/MKWON_CV-KR.pdf)
 
 ## Working
 
-- SEP2022 - *Present* : __Researcher__, Natural Science Research Institute(NSRI), University of Seoul, Seoul, Republic of Korea
+- SEP2022 - OCT2025 : __Researcher__, Natural Science Research Institute(NSRI), University of Seoul, Seoul, Republic of Korea
 
 ## Education
 
 - MAR2015 - FEB2019 : __Bachelor of Science (B.S.)__, Physics, Pusan National University, Busan, Republic of Korea.  
 - MAR2019 - FEB2022 : __Master of Science (M.S.)__, Physics, Pusan National University, Busan, Republic of Korea.
-- Mar2022 - AUG2022 : __Ph.D Course__, Physics, Pusan National University, Busan, Republic of Korea.
+- NOV2025 - *present* : __Ph.D Course__(Dottorato di Ricerca), Physics, Università degli Studi di Torino, Turin (Torino), Italy.
 
 ## Interests
 <!-- * Physics
