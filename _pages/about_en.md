@@ -8,7 +8,6 @@ I'm Minjae Isaac Kwon, from Republic of Korea.
 
 한국어 페이지 (This page in Korean): [Link](/about_ko)  
 CV (English) : [Download](/assets/files/MKWON_CV.pdf)  
-CV (Korean) : [Download](/assets/files/MKWON_CV-KR.pdf)
 
 ## Working
 
