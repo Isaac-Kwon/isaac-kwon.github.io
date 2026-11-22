@@ -11,7 +11,7 @@ permalink: /projects/
 ### Heavy Ion Physics Experiment Laboratory (HIPEx)
 
 The **Heavy Ion Physics Experiment Laboratory** is a research group in the Department of Physics at Pusan National University, Busan, Republic of Korea.
-More details are on the [lab website](https://sites.google.com/a/hipex.phys.pusan.ac.kr/hipex-public){:target="_blank"} (Korean).
+More details are on the [lab website](http://hipex.phys.pusan.ac.kr){:target="_blank"}.
 
 ### ALICE Collaboration
 
