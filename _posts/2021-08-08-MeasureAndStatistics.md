@@ -10,7 +10,6 @@ toc_label : "목차"
 toc_sticky : true
 #toc_icon : "angle-right"  # corresponding Font Awesome icon name (without fa prefix) -->
 
-show_adsense : true
 ---
 
 본 포스트에선, 측정을 진행하고 그 측정 결과를 다시 실험결과로 받아들이기 위한 통계적 과정과, 각 통계요소가 가지는 의미에 대해 알아봅니다.

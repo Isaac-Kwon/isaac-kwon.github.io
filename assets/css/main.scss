@@ -1,10 +1,15 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
+search: false
 ---
 
 @charset "utf-8";
 
+// Site overrides of theme variables (must come before the theme import)
+$doc-font-size-large: 19px;
+$doc-font-size-x-large: 19px;
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-@import "custom";
+@import "custom"; // site-specific styles (_sass/custom.scss)

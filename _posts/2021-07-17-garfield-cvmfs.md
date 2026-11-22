@@ -9,7 +9,6 @@ toc : true
 toc_label : "목차"
 toc_sticky : true
 
-show_adsense : true
 ---
 
 다음 링크의 포스트를 발췌하였습니다. [gist link](https://gist.github.com/Isaac-Kwon/5d92144ab27b0b5c25a009a42c53fad9)

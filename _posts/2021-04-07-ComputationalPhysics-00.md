@@ -11,7 +11,6 @@ toc_label : "목차"
 toc_sticky : true
 toc_icon : "angle-right"  # corresponding Font Awesome icon name (without fa prefix) -->
 
-show_adsense : true
 ---
 > **실전 전산물리학**: *Computational Physics in a nutshell*
 
