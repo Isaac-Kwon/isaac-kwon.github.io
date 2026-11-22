@@ -41,6 +41,6 @@ More: [ALICE Collaboration](https://alice-collaboration.web.cern.ch){:target="_b
 - [RooParticle](https://github.com/Isaac-Kwon/RooParticle){:target="_blank"} — Monte Carlo particle collision simulator built on ROOT · C++
 - [qupid](https://github.com/Isaac-Kwon/qupid){:target="_blank"} ([docs](https://isaac-kwon.github.io/qupid){:target="_blank"}) — Quasi-signal generation model for pixelated detectors · C++
 - [GOST](https://github.com/Isaac-Kwon/GOST){:target="_blank"} — General Optics Simulation Tool · C++
-- [wedding-invitation-template](https://github.com/Isaac-Kwon/wedding-invitation-template){:target="_blank"} — Template for a web wedding invitation · TypeScript
-- [tamagotchi](https://github.com/Isaac-Kwon/tamagotchi){:target="_blank"} — Tamagotchi-style virtual pet toy project · Python
-- [LabelLoom](https://github.com/Isaac-Kwon/LabelLoom){:target="_blank"} — Label-making tool · TypeScript
+- [wedding-invitation-template](https://github.com/Isaac-Kwon/wedding-invitation-template){:target="_blank"} — Mobile-first wedding invitation template (DAON) built with Next.js and React · TypeScript
+- [tamagotchi](https://github.com/Isaac-Kwon/tamagotchi){:target="_blank"} — Soul Tamagotchi: an LLM-driven autonomous agent that picks, pursues and drops its own interests, observable like a tamagotchi · Python
+- [LabelLoom](https://github.com/Isaac-Kwon/LabelLoom){:target="_blank"} — Serverless browser app for designing labels, name tags and barcodes, and batch-printing them from Excel/CSV lists · TypeScript
