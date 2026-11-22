@@ -40,3 +40,7 @@ More: [ALICE Collaboration](https://alice-collaboration.web.cern.ch){:target="_b
 - [CIMS](https://github.com/PNU-HIPEx/CIMS-Pigle){:target="_blank"}
 - [RooParticle](https://github.com/Isaac-Kwon/RooParticle){:target="_blank"}
 - [qupid](https://github.com/Isaac-Kwon/qupid){:target="_blank"} ([docs](https://isaac-kwon.github.io/qupid){:target="_blank"})
+- [GOST](https://github.com/Isaac-Kwon/GOST){:target="_blank"}
+- [wedding-invitation-template](https://github.com/Isaac-Kwon/wedding-invitation-template){:target="_blank"}
+- [tamagotchi](https://github.com/Isaac-Kwon/tamagotchi){:target="_blank"}
+- [LabelLoom](https://github.com/Isaac-Kwon/LabelLoom){:target="_blank"}
