@@ -11,7 +11,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Minjae Isaac Kwon"
 description              : "Personal Website"
-url                      : "https://isaac-kwon.github.io"
+url                      : "https://isaack.dev"
 baseurl                  : ""
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
