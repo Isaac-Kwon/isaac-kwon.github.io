@@ -4,9 +4,24 @@ title: Projects
 permalink: /projects/
 ---
 
-<!-- TODO: add a "Current" section (University of Torino Ph.D., NSRI University of Seoul) above "Past". -->
+## Current
+
+### DarkSide Experiment
+*University of Torino (Ph.D.), 2025 – present*
+
+DarkSide is a direct dark-matter search experiment using a liquid-argon time projection chamber at the Laboratori Nazionali del Gran Sasso (LNGS), Italy.
 
 ## Past
+
+### CMS Experiment
+*Natural Science Research Institute (NSRI), University of Seoul, 2022 – 2025*
+
+[CMS](https://cms.cern){:target="_blank"} (Compact Muon Solenoid) is a general-purpose detector at the Large Hadron Collider (LHC) at [CERN](https://home.cern){:target="_blank"}.
+
+### ePIC Barrel Imaging Calorimeter (BIC)
+*Natural Science Research Institute (NSRI), University of Seoul, 2022 – 2025*
+
+The Barrel Imaging Calorimeter is the barrel electromagnetic calorimeter of [ePIC](https://www.epic-eic.org){:target="_blank"}, the first detector at the [Electron-Ion Collider (EIC)](https://www.bnl.gov/eic/){:target="_blank"}.
 
 ### Heavy Ion Physics Experiment Laboratory (HIPEx)
 
