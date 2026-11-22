@@ -7,7 +7,7 @@ permalink: /projects/
 ## Current
 
 ### DarkSide Experiment
-*University of Torino (Ph.D.), 2025 – present*
+*Università degli Studi di Torino (UniTo), Ph.D., 2025 – present*
 
 DarkSide is a direct dark-matter search experiment using a liquid-argon time projection chamber at the Laboratori Nazionali del Gran Sasso (LNGS), Italy.
 
