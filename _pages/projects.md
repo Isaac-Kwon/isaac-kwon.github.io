@@ -4,28 +4,39 @@ title: Projects
 permalink: /projects/
 ---
 
-<!-- I've been doing or done -->
+## Current
 
-## Heavy Ion Physics Experiment Laboratory
-**Heavy Ion Physics Experiment Laboratory** is lab of Department of Physics at Pusan National University.   
-You can see detail in [webpage](https://sites.google.com/a/hipex.phys.pusan.ac.kr/hipex-public). (Korean.)
+### DarkSide Experiment
+*Università degli Studi di Torino (UniTo), Ph.D., 2025 – present*
 
-## ALICE Collaboration
+DarkSide is a direct dark-matter search experiment using a liquid-argon time projection chamber at the Laboratori Nazionali del Gran Sasso (LNGS), Italy.
 
-[ALICE Collaboration](https://alice-collaboration.web.cern.ch){:target="_blank"}[^1] is team at LHC[^2] in [CERN](https://home.cern)[^3]
+## Past
 
- [^1]: A Large Ion Collider Experiment  
- [^2]: Large Hadron Collider  
- [^3]: Conseil Européen pour la Recherche Nucléaire  
+### CMS Experiment
+*Natural Science Research Institute (NSRI), University of Seoul, 2022 – 2025*
 
-To know more detail, you can follow other webpages.
+[CMS](https://cms.cern){:target="_blank"} (Compact Muon Solenoid) is a general-purpose detector at the Large Hadron Collider (LHC) at [CERN](https://home.cern){:target="_blank"}.
 
-CERN : [LINK](https://home.cern){:target="_blank"}  
-ALICE : [LINK](http://alice.web.cern.ch){:target="_blank"}  
-ALICE Collaboration : [LINK](https://alice-collaboration.web.cern.ch){:target="_blank"}  
+### ePIC Barrel Imaging Calorimeter (BIC)
+*Natural Science Research Institute (NSRI), University of Seoul, 2022 – 2025*
+
+The Barrel Imaging Calorimeter is the barrel electromagnetic calorimeter of [ePIC](https://www.epic-eic.org){:target="_blank"}, the first detector at the [Electron-Ion Collider (EIC)](https://www.bnl.gov/eic/){:target="_blank"}.
+
+### Heavy Ion Physics Experiment Laboratory (HIPEx)
+
+The **Heavy Ion Physics Experiment Laboratory** is a research group in the Department of Physics at Pusan National University, Busan, Republic of Korea.
+More details are on the [lab website](http://hipex.phys.pusan.ac.kr){:target="_blank"} (Korean).
+
+### ALICE Collaboration
+
+[ALICE](https://alice.cern){:target="_blank"} (A Large Ion Collider Experiment) is the heavy-ion experiment at the Large Hadron Collider (LHC) at [CERN](https://home.cern){:target="_blank"}.
+It studies strongly interacting matter at extreme energy densities, such as the quark–gluon plasma.
+
+More: [ALICE Collaboration](https://alice-collaboration.web.cern.ch){:target="_blank"}
 
 ## Personal Projects
 
-* [CIMS](https://github.com/PNU-HIPEx/CIMS-Pigle){:target="_blank"}
-* [RooParticle](https://github.com/Isaac-Kwon/RooParticle){:target="_blank"}
-* [qupid](https://github.com/Isaac-Kwon/qupid) [docs](https://isaac-kwon.github.io/qupid){:target="_blank"}
+- [CIMS](https://github.com/PNU-HIPEx/CIMS-Pigle){:target="_blank"}
+- [RooParticle](https://github.com/Isaac-Kwon/RooParticle){:target="_blank"}
+- [qupid](https://github.com/Isaac-Kwon/qupid){:target="_blank"} ([docs](https://isaac-kwon.github.io/qupid){:target="_blank"})
