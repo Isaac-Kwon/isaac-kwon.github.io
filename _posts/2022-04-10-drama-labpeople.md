@@ -10,7 +10,6 @@ toc_label : "목차"
 toc_sticky : true
 #toc_icon : "angle-right"  # corresponding Font Awesome icon name (without fa prefix) -->
 
-show_adsense : true
 ---
 
 '기상청 사람들' 이라는 드라마를 보다가, '연구소 사람들' 이라는 드라마를 만들면 되겠다는 생각이 들어서 대충 구상해봄.

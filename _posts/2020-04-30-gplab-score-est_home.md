@@ -8,7 +8,6 @@ toc : true
 toc_label : "목차"
 toc_sticky : false
 
-show_adsense : true
 ---
 <!-- permalink: /gplab-score-est/ -->
 

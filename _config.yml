@@ -11,7 +11,7 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-# remote_theme           : "mmistakes/minimal-mistakes"
+remote_theme             : "mmistakes/minimal-mistakes@4.28.1"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -99,9 +99,6 @@ analytics:
     tracking_id          : "UA-137382638-1"
     anonymize_ip         : # true, false (default)
 
-# Adsense
-adsense:
-  ad-client : "ca-pub-7228327266672109"
 
 # Site Author
 author:
@@ -237,7 +234,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
-  - jekyll-archives
+  - jekyll-remote-theme
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -246,7 +243,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
-  - jekyll-archives
+  - jekyll-remote-theme
 
 
 # Archives
@@ -351,5 +348,4 @@ defaults:
 
 
 head_scripts:
-  - https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.min.js
   - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML
