@@ -4,24 +4,20 @@ title: ALICE Collaboration
 permalink: /projects/about-ALICE
 ---
 
-[ALICE Collaboration](https://alice-collaboration.web.cern.ch)[^1] is team at LHC[^2] in [CERN](https://home.cern)[^3]
+[ALICE](https://alice.cern){:target="_blank"} (A Large Ion Collider Experiment) is the heavy-ion experiment at the Large Hadron Collider (LHC) at [CERN](https://home.cern){:target="_blank"} (Conseil Européen pour la Recherche Nucléaire).
 
- [^1]: A Large Ion Collider Experiment  
- [^2]: Large Hadron Collider  
- [^3]: Conseil Européen pour la Recherche Nucléaire  
-
-# Mission of ALICE
+## Mission of ALICE
 > Study the physics of strongly interacting matter at high energy density.
 
-# What we are doing?
-1. Detector Design; Construction
-2. Colliding Experiment
-3. Data Analysis
+## What the collaboration does
+1. Detector design and construction
+2. Collision experiments
+3. Data analysis
 
-# References
-To know more detail, you can follow other webpages.
+## References
 
-CERN : [LINK](https://home.cern)  
-ALICE : [LINK](http://alice.web.cern.ch)  
-ALICE Collaboration : [LINK](https://alice-collaboration.web.cern.ch)  
+- [CERN](https://home.cern){:target="_blank"}
+- [ALICE](https://alice.cern){:target="_blank"}
+- [ALICE Collaboration](https://alice-collaboration.web.cern.ch){:target="_blank"}
 
+[← Back to Projects](/projects/)

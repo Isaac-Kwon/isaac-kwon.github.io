@@ -4,28 +4,24 @@ title: Projects
 permalink: /projects/
 ---
 
-<!-- I've been doing or done -->
+<!-- TODO: add a "Current" section (University of Torino Ph.D., NSRI University of Seoul) above "Past". -->
 
-## Heavy Ion Physics Experiment Laboratory
-**Heavy Ion Physics Experiment Laboratory** is lab of Department of Physics at Pusan National University.   
-You can see detail in [webpage](https://sites.google.com/a/hipex.phys.pusan.ac.kr/hipex-public). (Korean.)
+## Past
 
-## ALICE Collaboration
+### Heavy Ion Physics Experiment Laboratory (HIPEx)
 
-[ALICE Collaboration](https://alice-collaboration.web.cern.ch){:target="_blank"}[^1] is team at LHC[^2] in [CERN](https://home.cern)[^3]
+The **Heavy Ion Physics Experiment Laboratory** is a research group in the Department of Physics at Pusan National University, Busan, Republic of Korea.
+More details are on the [lab website](https://sites.google.com/a/hipex.phys.pusan.ac.kr/hipex-public){:target="_blank"} (Korean).
 
- [^1]: A Large Ion Collider Experiment  
- [^2]: Large Hadron Collider  
- [^3]: Conseil Européen pour la Recherche Nucléaire  
+### ALICE Collaboration
 
-To know more detail, you can follow other webpages.
+[ALICE](https://alice.cern){:target="_blank"} (A Large Ion Collider Experiment) is the heavy-ion experiment at the Large Hadron Collider (LHC) at [CERN](https://home.cern){:target="_blank"}.
+It studies strongly interacting matter at extreme energy densities, such as the quark–gluon plasma.
 
-CERN : [LINK](https://home.cern){:target="_blank"}  
-ALICE : [LINK](http://alice.web.cern.ch){:target="_blank"}  
-ALICE Collaboration : [LINK](https://alice-collaboration.web.cern.ch){:target="_blank"}  
+More: [About ALICE](/projects/about-ALICE) · [ALICE Collaboration](https://alice-collaboration.web.cern.ch){:target="_blank"}
 
 ## Personal Projects
 
-* [CIMS](https://github.com/PNU-HIPEx/CIMS-Pigle){:target="_blank"}
-* [RooParticle](https://github.com/Isaac-Kwon/RooParticle){:target="_blank"}
-* [qupid](https://github.com/Isaac-Kwon/qupid) [docs](https://isaac-kwon.github.io/qupid){:target="_blank"}
+- [CIMS](https://github.com/PNU-HIPEx/CIMS-Pigle){:target="_blank"}
+- [RooParticle](https://github.com/Isaac-Kwon/RooParticle){:target="_blank"}
+- [qupid](https://github.com/Isaac-Kwon/qupid){:target="_blank"} ([docs](https://isaac-kwon.github.io/qupid){:target="_blank"})
