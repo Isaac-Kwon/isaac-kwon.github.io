@@ -18,7 +18,7 @@ More details are on the [lab website](http://hipex.phys.pusan.ac.kr){:target="_b
 [ALICE](https://alice.cern){:target="_blank"} (A Large Ion Collider Experiment) is the heavy-ion experiment at the Large Hadron Collider (LHC) at [CERN](https://home.cern){:target="_blank"}.
 It studies strongly interacting matter at extreme energy densities, such as the quark–gluon plasma.
 
-More: [About ALICE](/projects/about-ALICE) · [ALICE Collaboration](https://alice-collaboration.web.cern.ch){:target="_blank"}
+More: [ALICE Collaboration](https://alice-collaboration.web.cern.ch){:target="_blank"}
 
 ## Personal Projects
 
